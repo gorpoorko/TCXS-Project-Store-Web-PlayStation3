@@ -73,3 +73,6 @@ Plataforma: PlayStation1</p>
         gravar = open('ps1_pronto.txt','a')
         gravar.write(texto)
 gravar.close()
+
+
+
