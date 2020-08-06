@@ -78,6 +78,16 @@ button.caixa_imagem {
 }
 
 
+.colunas_home {
+  width: 1200px;
+  height: 150px;
+  background-color: #101214; 
+  border: none;
+}
+
+
+
+
 /*SISTEMA DE POP UP INICIO --------- */
 /*JANELA DE DOWNLOAD EXCLUSIVA PS3 */
 .janelaDownloadPS3 {
