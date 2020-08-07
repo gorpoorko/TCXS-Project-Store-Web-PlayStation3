@@ -20,27 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6392b8c6-c8bb-4969-a593-08eebe38cd77" name="Default Changelist" comment="Versao com PSN Stuff separada, nao esta linkada com menus">
-      <change beforePath="$PROJECT_DIR$/crawler/ps1_pronto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/ps2_pronto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/ps3_pronto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/psp_pronto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/stuffAG_pronto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/stuffHM_pronto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/stuffNS_pronto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/stuffTZ_pronto.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/cria_id.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emuladores.html" beforeDir="false" afterPath="$PROJECT_DIR$/emuladores.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorpo.js" beforeDir="false" afterPath="$PROJECT_DIR$/gorpo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ps1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ps1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ps2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ps2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ps3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ps3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/psp.html" beforeDir="false" afterPath="$PROJECT_DIR$/psp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stuff_ag.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stuff_hm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stuff_ns.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stuff_tz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stuff.html" beforeDir="false" afterPath="$PROJECT_DIR$/stuff.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -61,7 +61,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.crawler stuffTZ">
+  <component name="RunManager" selected="Python.cria_id">
     <configuration name="crawler stuffAG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TCXS-Project-Store-Web-PlayStation3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,8 +146,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="cria_id" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TCXS-Project-Store-Web-PlayStation3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/cria_id.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cria_id" />
         <item itemvalue="Python.crawler stuffTZ" />
         <item itemvalue="Python.crawler stuffNS" />
         <item itemvalue="Python.crawler stuffHM" />
@@ -184,6 +206,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Versao com PSN Stuff separada, nao esta linkada com menus" />
@@ -194,22 +217,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="869" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1596717193598" />
-    <state width="1537" height="220" key="GridCell.Tab.0.bottom" timestamp="1596717947261">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1596842688680">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1537" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596717947261" />
-    <state width="1537" height="220" key="GridCell.Tab.0.center" timestamp="1596717947261">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596842688680" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1596842688680">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1537" height="220" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596717947261" />
-    <state width="1537" height="220" key="GridCell.Tab.0.left" timestamp="1596717947261">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596842688680" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1596842688680">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1537" height="220" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596717947261" />
-    <state width="1537" height="220" key="GridCell.Tab.0.right" timestamp="1596717947261">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596842688680" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1596842688680">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1537" height="220" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596717947261" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596842688680" />
     <state width="1537" height="220" key="GridCell.Tab.1.bottom" timestamp="1596717947261">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
