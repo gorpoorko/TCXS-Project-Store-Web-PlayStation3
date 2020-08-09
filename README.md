@@ -4,9 +4,9 @@
 [![Build](https://img.shields.io/badge/windows-7%208%2010-blue.svg)]()
 [![Build](https://img.shields.io/badge/Linux-Ubuntu%20Debian-orange.svg)]()
 [![Build](https://img.shields.io/badge/arquiterura-64bits-blue.svg)]()
-<h2 align="center">TCXS Project PAinel Admin APK</h2>
-<img src="https://raw.githubusercontent.com/gorpo/Bases-python/master/images/banner_mani_telegram.jpg" width="100%"></img><br>
-Desenvolvido para criar,deletar e monitorar usuários no banco de dados de forma facil e pratica, este git contem o projeto android studio para ediçao.
+<h2 align="center">TCXS Project Painel Admin APK</h2>
+<img src="https://i.imgur.com/pV7Wmuz.jpg" width="100%"></img><br>
+<p>Desenvolvido para criar,deletar e monitorar usuários no banco de dados de forma facil e pratica, este git contem o projeto android studio para ediçao.</p>
 
 
 <h1> Comandos auxiliares Github - CLI </h1><br>
