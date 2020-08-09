@@ -11,7 +11,7 @@
 			<Query
 				 class="type:x-xmb/module-action"
 				 key="tcxs_project"
-				 src="http://tcxsproject.com.br/store"
+				 src="http://tcxsproject.com.br/store/index.php"
 				 />
 			<Query
 				class="type:x-xmb/folder-pixmap"
