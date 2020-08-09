@@ -16,7 +16,7 @@
 			<Query
 				 class="type:x-xmb/module-action"
 				 key="tcxs_project"
-				 src="http://localhost/dev_hdd0/game/TCXSPROJECT/USRDIR/index.html"
+				 src="http://tcxsproject.com.br/store"
 				 />
 			<Query
 				class="type:x-xmb/folder-pixmap"
