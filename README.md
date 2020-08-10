@@ -5,8 +5,8 @@
 [![Build](https://img.shields.io/badge/Linux-Ubuntu%20Debian-orange.svg)]()
 [![Build](https://img.shields.io/badge/arquiterura-64bits-blue.svg)]()
 <h2 align="center">TCXS Project Store PlayStation3</h2>
-<img src="https://raw.githubusercontent.com/gorpoorko/TCXS-Project-Store-Web-PlayStation3/4445e13961121ca49a9c2efa50fd5f14763e3882/assets/banner_git.jpg?token=AQJRMSCK5HBKUZ7UAI4OYEC7GHJZM" width="100%"></img><br>
-<code>
+<img src="https://i.imgur.com/3Gmp3Ze.jpg" width="100%"></img><br>
+<table>
 - Toda e qualquer alteraçao deve ser informada no changelog, favor informar sempre no documento que estiver editando que id parou de usar para quem for atualizar a proxima vez saiba de que id começar, se possivel informe neste documento a id que parou para melhor visualização, mantenha um backup desde mesmo material no dropbox, versionando sempre sua versão passada.<br>
 - Fixes, patches e outros arquivos como o apk devem ficar em um branch separado neste git, manter apenas a versão MASTER intacta pronta para upload<br>
 - Os dados de banco de dados desta versão são da minha maquina local, para hospedar é necessário trocar usuario, senha e nome do banco de dados nas configurações PHP<br>
@@ -16,7 +16,7 @@
 - O gerenciamento de usuarios pode ser feito via navegador ou via APK Android<br>
 - Sistema de banimento automático ainda será desenvolvido, creio eu que vou gostar sentar de manha dar uma cagada, pegar o meu café, minha maconha e dando uma cagada sentar o ban em alguns users... @GorpoOrko<br>
 - Todas e qualquer informaçoes adicionais devem ser inseridas neste documento e versionada neste git.<br>
-- 09 de Agosto de 2020 <br></code>
+- 09 de Agosto de 2020 <br></table>
 
 
 <h1> Changelog:</h1><br>
@@ -65,11 +65,11 @@
 </code><br>
 
 <h1> Demonstração:</h1><br>
-<img src="https://raw.githubusercontent.com/gorpoorko/TCXS-Project-Store-Web-PlayStation3/4445e13961121ca49a9c2efa50fd5f14763e3882/assets/home.png?token=AQJRMSF2DUATYD4V6WMRMCC7GHJZ4" width="100%"></img><br>
-<img src="https://raw.githubusercontent.com/gorpoorko/TCXS-Project-Store-Web-PlayStation3/4445e13961121ca49a9c2efa50fd5f14763e3882/assets/bem_vindo.png?token=AQJRMSDBJO6XGFWAGB7AGKC7GHJZK" width="100%"></img><br>
-<img src="https://raw.githubusercontent.com/gorpoorko/TCXS-Project-Store-Web-PlayStation3/4445e13961121ca49a9c2efa50fd5f14763e3882/assets/jogos.png?token=AQJRMSHXIQSDD3S4XQ643TC7GHKJG" width="100%"></img><br>
-<img src="https://raw.githubusercontent.com/gorpoorko/TCXS-Project-Store-Web-PlayStation3/4445e13961121ca49a9c2efa50fd5f14763e3882/assets/emuladores.png?token=AQJRMSBRVIF46FNHXUO4D4S7GHJZW" width="100%"></img><br>
-<br>
+<img src="https://i.imgur.com/XyakSdF.png" width="100%"></img><br>
+<img src="https://i.imgur.com/7qmteHR.png" width="100%"></img><br>
+<img src="https://i.imgur.com/8cI4rvm.png" width="100%"></img><br>
+<img src="https://i.imgur.com/6wdkq4V.png" width="100%"></img><br>
+
 
 <h1> Comandos auxiliares Github - CLI </h1><br>
 <b>email:</b><br>
