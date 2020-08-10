@@ -1129,6 +1129,7 @@ function disable_resetbtn()
 
 function disable_btn()
 {
+	disable_element(document.getElementById('homePage'));
 	disable_element(document.getElementById('btn0'));
 disable_element(document.getElementById('btn1'));
 disable_element(document.getElementById('btn2'));
@@ -5162,6 +5163,7 @@ disable_element(document.getElementById('emu19'));
 }
 function enable_btn()
 {
+	enable_element(document.getElementById('homePage'));
 	enable_element(document.getElementById('btn0'));
 enable_element(document.getElementById('btn1'));
 enable_element(document.getElementById('btn2'));

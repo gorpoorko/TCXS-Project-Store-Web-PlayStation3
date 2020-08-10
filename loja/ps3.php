@@ -20,15 +20,22 @@ if(!$_SESSION['nome']) {
       <meta http-equiv="refresh" content="120">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <meta property="og:site_name" content="TCXS Project PlayStation3"/>
+      <meta property="og:title" content="TCXS Project PlayStation3"/>
+      <meta property="og:url" content="https://tcxsproject.com.br/"/>
+      <meta property="og:description" content="Para adquirir sua versão mais atual da TCXS Project Store PKG para o console PlayStation3 clique no botão COMO ADQUIRIR e leia todas as regras, após isto já fazer sua doação. Aceitamos todos os tipos de pagamento como cartão, pagamento online"/>
+      <meta property="og:image" content="imagens/logo.png"/>
+      <link rel="shortcut icon" href="imagens/icon.png" />
       <script src="https://kit.fontawesome.com/a80232805f.js" crossorigin="anonymous"></script>
       <script src="js/script.js"></script>
       <link rel="stylesheet" type="text/css" href="css/style.css" />
-      <title>TCXS Project 2021</title>
+      <title>TCXS Project PlayStation3 Store</title>
     </head>
 <body>
+  <script>document.oncontextmenu = document.body.oncontextmenu = function() {return false;}</script>
   <div class="navigation-bar">
   <div id="navigation-container">
-    <a href='index.html'><img class="logo" src="imagens/logo.png"></a>
+    <a href='index.php'><img class="logo" src="imagens/logo.png"></a>
     <ul>
       <li><a href="psp.php">PlayStation PSP</a></li>
       <li><a href="ps1.php">PlayStation1</a></li>
@@ -45,10 +52,10 @@ if(!$_SESSION['nome']) {
 
 <!-- id:3001 handler:start | TCXS Project |  007 Goldeneye Reloaded -->
 <button id="3001" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ 007 Goldeneye Reloaded';" autofocus>
-<img src="imagens/ps3/007gold.png"></button>
+<img src="imagens/ps3/007gold.jpg"></button>
 <div id="janela_ 007 Goldeneye Reloaded" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/007gold.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/007gold.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  007 Goldeneye Reloaded<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -66,10 +73,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3002 handler:start | TCXS Project |  007 LEGENDS -->
 <button id="3002" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ 007 LEGENDS';" autofocus>
-<img src="imagens/ps3/007legend.png"></button>
+<img src="imagens/ps3/007legend.jpg"></button>
 <div id="janela_ 007 LEGENDS" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/007legend.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/007legend.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  007 LEGENDS<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -87,10 +94,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3003 handler:start | TCXS Project |  Alone In The Dark -->
 <button id="3003" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Alone In The Dark';" autofocus>
-<img src="imagens/ps3/alonedark.png"></button>
+<img src="imagens/ps3/alonedark.jpg"></button>
 <div id="janela_ Alone In The Dark" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/alonedark.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/alonedark.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Alone In The Dark<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -108,10 +115,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3004 handler:start | TCXS Project |  Assassin Creed 2 -->
 <button id="3004" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Assassins2';" autofocus>
-<img src="imagens/ps3/assassins2.png"></button>
+<img src="imagens/ps3/assassins2.jpg"></button>
 <div id="janela_Assassins2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/assassins2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/assassins2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Assassin Creed 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -129,10 +136,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3005 handler:start | TCXS Project |  Assassin Creed 3 -->
 <button id="3005" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Assassin3';" autofocus>
-<img src="imagens/ps3/assassins3.png"></button>
+<img src="imagens/ps3/assassins3.jpg"></button>
 <div id="janela_ Assassin3" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/assassins3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/assassins3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Assassin Creed 3<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -150,10 +157,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3006 handler:start | TCXS Project |  Assassin Creed IV Black Flag  -->
 <button id="3006" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_abf';" autofocus>
-<img src="imagens/ps3/assassins4.png"></button>
+<img src="imagens/ps3/assassins4.jpg"></button>
 <div id="janela_abf" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/assassins4.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/assassins4.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Assassin Creed IV Black Flag <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -171,10 +178,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3007 handler:start | TCXS Project |  Assassin Creed Revelations -->
 <button id="3007" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Assassin Creed Revelations';" autofocus>
-<img src="imagens/ps3/assassinsrvl.png"></button>
+<img src="imagens/ps3/assassinsrvl.jpg"></button>
 <div id="janela_ Assassin Creed Revelations" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/assassinsrvl.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/assassinsrvl.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Assassin Creed Revelations<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -192,10 +199,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3008 handler:start | TCXS Project |  Assassin Creed Rogue  -->
 <button id="3008" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Assassin Creed Rogue ';" autofocus>
-<img src="imagens/ps3/assassinsrogue.png"></button>
+<img src="imagens/ps3/assassinsrogue.jpg"></button>
 <div id="janela_ Assassin Creed Rogue " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/assassinsrogue.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/assassinsrogue.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Assassin Creed Rogue <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -234,10 +241,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3010 handler:start | TCXS Project |  Assassins Creed Brotherhood [PT -->
 <button id="3010" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Assassins Creed Brotherhood [PT';" autofocus>
-<img src="imagens/ps3/assassinshood.png"></button>
+<img src="imagens/ps3/assassinshood.jpg"></button>
 <div id="janela_ Assassins Creed Brotherhood [PT" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/assassinshood.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/assassinshood.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Assassins Creed Brotherhood [PT<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -255,10 +262,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3011 handler:start | TCXS Project |  Asura Wrath -->
 <button id="3011" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Asura Wrath';" autofocus>
-<img src="imagens/ps3/asuras.png"></button>
+<img src="imagens/ps3/asuras.jpg"></button>
 <div id="janela_ Asura Wrath" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/asuras.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/asuras.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Asura Wrath<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -276,10 +283,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3012 handler:start | TCXS Project |  Batman Arkham Origins  -->
 <button id="3012" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Batman Arkham Origins ';" autofocus>
-<img src="imagens/ps3/batmanorigins.png"></button>
+<img src="imagens/ps3/batmanorigins.jpg"></button>
 <div id="janela_ Batman Arkham Origins " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/batmanorigins.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/batmanorigins.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Batman Arkham Origins <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -297,10 +304,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3013 handler:start | TCXS Project |  Batman: Arkham City  -->
 <button id="3013" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Batman: Arkham City ';" autofocus>
-<img src="imagens/ps3/batmancity.png"></button>
+<img src="imagens/ps3/batmancity.jpg"></button>
 <div id="janela_ Batman: Arkham City " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/batmancity.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/batmancity.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Batman: Arkham City <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -318,10 +325,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3014 handler:start | TCXS Project |  Battle Vs Chess -->
 <button id="3014" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Battle Vs Chess';" autofocus>
-<img src="imagens/ps3/chess.png"></button>
+<img src="imagens/ps3/chess.jpg"></button>
 <div id="janela_ Battle Vs Chess" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/chess.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/chess.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Battle Vs Chess<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -339,10 +346,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3015 handler:start | TCXS Project |  Battlefield 3 -->
 <button id="3015" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Battlefield 3';" autofocus>
-<img src="imagens/ps3/bf3.png"></button>
+<img src="imagens/ps3/bf3.jpg"></button>
 <div id="janela_ Battlefield 3" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/bf3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/bf3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Battlefield 3<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -360,10 +367,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3016 handler:start | TCXS Project |  Battlefield 4  -->
 <button id="3016" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Battlefield 4 ';" autofocus>
-<img src="imagens/ps3/bf4.png"></button>
+<img src="imagens/ps3/bf4.jpg"></button>
 <div id="janela_ Battlefield 4 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/bf4.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/bf4.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Battlefield 4 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -381,10 +388,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3017 handler:start | TCXS Project |  Battlefield Hardline  -->
 <button id="3017" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Battlefield Hardline ';" autofocus>
-<img src="imagens/ps3/bfhardline.png"></button>
+<img src="imagens/ps3/bfhardline.jpg"></button>
 <div id="janela_ Battlefield Hardline " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/bfhardline.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/bfhardline.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Battlefield Hardline <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -402,10 +409,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3018 handler:start | TCXS Project |  Beyond: Two Souls  -->
 <button id="3018" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Beyond: Two Souls ';" autofocus>
-<img src="imagens/ps3/bts.png"></button>
+<img src="imagens/ps3/bts.jpg"></button>
 <div id="janela_ Beyond: Two Souls " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/bts.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/bts.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Beyond: Two Souls <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -423,10 +430,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3019 handler:start | TCXS Project |  Black Sites Area51 -->
 <button id="3019" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Black Sites Area51';" autofocus>
-<img src="imagens/ps3/area51.png"></button>
+<img src="imagens/ps3/area51.jpg"></button>
 <div id="janela_ Black Sites Area51" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/area51.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/area51.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Black Sites Area51<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -444,10 +451,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3020 handler:start | TCXS Project |  Blur -->
 <button id="3020" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Blur';" autofocus>
-<img src="imagens/ps3/blur.png"></button>
+<img src="imagens/ps3/blur.jpg"></button>
 <div id="janela_ Blur" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/blur.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/blur.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Blur<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -465,10 +472,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3021 handler:start | TCXS Project |  Borderlands 2 -->
 <button id="3021" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Borderlands 2';" autofocus>
-<img src="imagens/ps3/border2.png"></button>
+<img src="imagens/ps3/border2.jpg"></button>
 <div id="janela_ Borderlands 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/border2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/border2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Borderlands 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -486,10 +493,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3022 handler:start | TCXS Project |  Borderlands GOTY Edition -->
 <button id="3022" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Borderlands GOTY Edition';" autofocus>
-<img src="imagens/ps3/borderlands.png"></button>
+<img src="imagens/ps3/borderlands.jpg"></button>
 <div id="janela_ Borderlands GOTY Edition" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/borderlands.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/borderlands.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Borderlands GOTY Edition<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -507,10 +514,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3023 handler:start | TCXS Project |  Borderlands PRE -->
 <button id="3023" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Borderlands PRE';" autofocus>
-<img src="imagens/ps3/borderpre.png"></button>
+<img src="imagens/ps3/borderpre.jpg"></button>
 <div id="janela_ Borderlands PRE" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/borderpre.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/borderpre.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Borderlands PRE<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -528,10 +535,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3024 handler:start | TCXS Project |  Brutal Legends  -->
 <button id="3024" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Brutal Legends ';" autofocus>
-<img src="imagens/ps3/brutal.png"></button>
+<img src="imagens/ps3/brutal.jpg"></button>
 <div id="janela_ Brutal Legends " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/brutal.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/brutal.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Brutal Legends <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -549,10 +556,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3025 handler:start | TCXS Project |  CRYSIS 3 -->
 <button id="3025" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ CRYSIS 3';" autofocus>
-<img src="imagens/ps3/crisis3.png"></button>
+<img src="imagens/ps3/crisis3.jpg"></button>
 <div id="janela_ CRYSIS 3" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/crisis3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/crisis3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  CRYSIS 3<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -570,10 +577,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3026 handler:start | TCXS Project |  Call Of Duty Advanced Warfare  -->
 <button id="3026" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Call Of Duty Advanced Warfare ';" autofocus>
-<img src="imagens/ps3/codaw.png"></button>
+<img src="imagens/ps3/codaw.jpg"></button>
 <div id="janela_ Call Of Duty Advanced Warfare " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/codaw.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/codaw.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Call Of Duty Advanced Warfare <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -591,10 +598,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3027 handler:start | TCXS Project |  Call Of Duty Ghost -->
 <button id="3027" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Call Of Duty Ghost';" autofocus>
-<img src="imagens/ps3/codghost.png"></button>
+<img src="imagens/ps3/codghost.jpg"></button>
 <div id="janela_ Call Of Duty Ghost" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/codghost.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/codghost.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Call Of Duty Ghost<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -612,10 +619,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3028 handler:start | TCXS Project |  Call Of Duty: Black Ops 3 -->
 <button id="3028" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Call Of Duty: Black Ops 3';" autofocus>
-<img src="imagens/ps3/bo3.png"></button>
+<img src="imagens/ps3/bo3.jpg"></button>
 <div id="janela_ Call Of Duty: Black Ops 3" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/bo3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/bo3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Call Of Duty: Black Ops 3<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -633,10 +640,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3029 handler:start | TCXS Project |  Call of Duty Modern Warfare 2 -->
 <button id="3029" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Call of Duty Modern Warfare 2';" autofocus>
-<img src="imagens/ps3/codmw2.png"></button>
+<img src="imagens/ps3/codmw2.jpg"></button>
 <div id="janela_ Call of Duty Modern Warfare 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/codmw2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/codmw2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Call of Duty Modern Warfare 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -654,10 +661,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3030 handler:start | TCXS Project |  Call of Duty Modern Warfare 3 -->
 <button id="3030" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Call of Duty Modern Warfare 3';" autofocus>
-<img src="imagens/ps3/codmw3.png"></button>
+<img src="imagens/ps3/codmw3.jpg"></button>
 <div id="janela_ Call of Duty Modern Warfare 3" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/codmw3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/codmw3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Call of Duty Modern Warfare 3<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -675,10 +682,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3031 handler:start | TCXS Project |  Call of Duty: Black Ops -->
 <button id="3031" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Call of Duty: Black Ops';" autofocus>
-<img src="imagens/ps3/bo1.png"></button>
+<img src="imagens/ps3/bo1.jpg"></button>
 <div id="janela_ Call of Duty: Black Ops" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/bo1.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/bo1.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Call of Duty: Black Ops<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -696,10 +703,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3032 handler:start | TCXS Project |  Call of Duty: Black ops 2 -->
 <button id="3032" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Call of Duty: Black ops 2';" autofocus>
-<img src="imagens/ps3/codbo2.png"></button>
+<img src="imagens/ps3/codbo2.jpg"></button>
 <div id="janela_ Call of Duty: Black ops 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/codbo2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/codbo2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Call of Duty: Black ops 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -717,10 +724,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3033 handler:start | TCXS Project |  Castlevania: Lords of Shadows  -->
 <button id="3033" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Castlevania: Lords of Shadows ';" autofocus>
-<img src="imagens/ps3/castlevaniasp.png"></button>
+<img src="imagens/ps3/castlevaniasp.jpg"></button>
 <div id="janela_ Castlevania: Lords of Shadows " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/castlevaniasp.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/castlevaniasp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Castlevania: Lords of Shadows <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -738,10 +745,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3034 handler:start | TCXS Project |  Cavaleiros do Zodíaco  -->
 <button id="3034" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Cavaleiros do Zodíaco ';" autofocus>
-<img src="imagens/ps3/cavaleirosalma.png"></button>
+<img src="imagens/ps3/cavaleirosalma.jpg"></button>
 <div id="janela_ Cavaleiros do Zodíaco " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/cavaleirosalma.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/cavaleirosalma.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Cavaleiros do Zodíaco <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -759,10 +766,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3035 handler:start | TCXS Project |  Condemned 2 -->
 <button id="3035" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Condemned 2';" autofocus>
-<img src="imagens/ps3/condemned2.png"></button>
+<img src="imagens/ps3/condemned2.jpg"></button>
 <div id="janela_ Condemned 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/condemned2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/condemned2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Condemned 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -780,10 +787,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3036 handler:start | TCXS Project |  Crysis 2 Edição limitada -->
 <button id="3036" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Crysis 2 Edição limitada';" autofocus>
-<img src="imagens/ps3/crysis2.png"></button>
+<img src="imagens/ps3/crysis2.jpg"></button>
 <div id="janela_ Crysis 2 Edição limitada" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/crysis2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/crysis2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Crysis 2 Edição limitada<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -801,10 +808,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3037 handler:start | TCXS Project |  Dante Inferno  -->
 <button id="3037" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dante Inferno ';" autofocus>
-<img src="imagens/ps3/dante.png"></button>
+<img src="imagens/ps3/dante.jpg"></button>
 <div id="janela_ Dante Inferno " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/dante.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/dante.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dante Inferno <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -822,10 +829,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3038 handler:start | TCXS Project |  Dark Sector -->
 <button id="3038" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dark Sector';" autofocus>
-<img src="imagens/ps3/darkswl1.png"></button>
+<img src="imagens/ps3/darkswl1.jpg"></button>
 <div id="janela_ Dark Sector" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/darkswl1.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/darkswl1.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dark Sector<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -843,10 +850,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3039 handler:start | TCXS Project |  Dark Souls  -->
 <button id="3039" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dark Souls ';" autofocus>
-<img src="imagens/ps3/dark1.png"></button>
+<img src="imagens/ps3/dark1.jpg"></button>
 <div id="janela_ Dark Souls " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/dark1.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/dark1.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dark Souls <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -864,10 +871,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3040 handler:start | TCXS Project |  Dark Souls 2  -->
 <button id="3040" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dark Souls 2 ';" autofocus>
-<img src="imagens/ps3/dark2.png"></button>
+<img src="imagens/ps3/dark2.jpg"></button>
 <div id="janela_ Dark Souls 2 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/dark2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/dark2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dark Souls 2 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -885,10 +892,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3041 handler:start | TCXS Project |  Dark Souls Prepare To Die Edition -->
 <button id="3041" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dark Souls Prepare To Die Edition';" autofocus>
-<img src="imagens/ps3/dark1.png"></button>
+<img src="imagens/ps3/dark1.jpg"></button>
 <div id="janela_ Dark Souls Prepare To Die Edition" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/dark1.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/dark1.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dark Souls Prepare To Die Edition<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -906,10 +913,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3042 handler:start | TCXS Project |  Darksiders 2 -->
 <button id="3042" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Darksiders 2';" autofocus>
-<img src="imagens/ps3/Darksiders2.png"></button>
+<img src="imagens/ps3/Darksiders2.jpg"></button>
 <div id="janela_ Darksiders 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/Darksiders2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/Darksiders2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Darksiders 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -927,10 +934,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3043 handler:start | TCXS Project |  Dead Island Riptide -->
 <button id="3043" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dead Island Riptide';" autofocus>
-<img src="imagens/ps3/deadslandriptide.png"></button>
+<img src="imagens/ps3/deadslandriptide.jpg"></button>
 <div id="janela_ Dead Island Riptide" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/deadslandriptide.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/deadslandriptide.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dead Island Riptide<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -948,10 +955,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3044 handler:start | TCXS Project |  Dead Island -->
 <button id="3044" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dead Island';" autofocus>
-<img src="imagens/ps3/deadisland.png"></button>
+<img src="imagens/ps3/deadisland.jpg"></button>
 <div id="janela_ Dead Island" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/deadisland.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/deadisland.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dead Island<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -969,10 +976,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3045 handler:start | TCXS Project |  Dead To Right Retribution -->
 <button id="3045" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dead To Right Retribution';" autofocus>
-<img src="imagens/ps3/deadright.png"></button>
+<img src="imagens/ps3/deadright.jpg"></button>
 <div id="janela_ Dead To Right Retribution" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/deadright.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/deadright.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dead To Right Retribution<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -990,10 +997,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3046 handler:start | TCXS Project |  Demon Souls -->
 <button id="3046" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Demon Souls';" autofocus>
-<img src="imagens/ps3/demonsouls.png"></button>
+<img src="imagens/ps3/demonsouls.jpg"></button>
 <div id="janela_ Demon Souls" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/demonsouls.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/demonsouls.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Demon Souls<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1011,10 +1018,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3047 handler:start | TCXS Project |  Destiny  -->
 <button id="3047" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Destiny ';" autofocus>
-<img src="imagens/ps3/destiny.png"></button>
+<img src="imagens/ps3/destiny.jpg"></button>
 <div id="janela_ Destiny " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/destiny.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/destiny.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Destiny <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1032,10 +1039,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3048 handler:start | TCXS Project |  Diablo 3: Reaper of Souls  -->
 <button id="3048" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Diablo 3: Reaper of Souls ';" autofocus>
-<img src="imagens/ps3/diablo3sp.png"></button>
+<img src="imagens/ps3/diablo3sp.jpg"></button>
 <div id="janela_ Diablo 3: Reaper of Souls " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/diablo3sp.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/diablo3sp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Diablo 3: Reaper of Souls <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1053,10 +1060,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3049 handler:start | TCXS Project |  Doom 3 BFG -->
 <button id="3049" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Doom 3 BFG';" autofocus>
-<img src="imagens/ps3/doom3.png"></button>
+<img src="imagens/ps3/doom3.jpg"></button>
 <div id="janela_ Doom 3 BFG" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/doom3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/doom3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Doom 3 BFG<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1074,10 +1081,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3050 handler:start | TCXS Project |  Dragon Age 2  -->
 <button id="3050" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dragon Age 2 ';" autofocus>
-<img src="imagens/ps3/dragonage2.png"></button>
+<img src="imagens/ps3/dragonage2.jpg"></button>
 <div id="janela_ Dragon Age 2 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/dragonage2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/dragonage2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dragon Age 2 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1095,10 +1102,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3051 handler:start | TCXS Project |  Dragon Ball Xenoverse LEGENDADO -->
 <button id="3051" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dragon Ball Xenoverse LEGENDADO';" autofocus>
-<img src="imagens/ps3/dbzxv.png"></button>
+<img src="imagens/ps3/dbzxv.jpg"></button>
 <div id="janela_ Dragon Ball Xenoverse LEGENDADO" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/dbzxv.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/dbzxv.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dragon Ball Xenoverse LEGENDADO<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1116,10 +1123,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3052 handler:start | TCXS Project |  Dragon Inquisition -->
 <button id="3052" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dragon Inquisition';" autofocus>
-<img src="imagens/ps3/dragsition.png"></button>
+<img src="imagens/ps3/dragsition.jpg"></button>
 <div id="janela_ Dragon Inquisition" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/dragsition.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/dragsition.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dragon Inquisition<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1137,10 +1144,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3053 handler:start | TCXS Project |  Dragons Dogma Dark Arisen  -->
 <button id="3053" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dragons Dogma Dark Arisen ';" autofocus>
-<img src="imagens/ps3/dragonsdogma.png"></button>
+<img src="imagens/ps3/dragonsdogma.jpg"></button>
 <div id="janela_ Dragons Dogma Dark Arisen " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/dragonsdogma.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/dragonsdogma.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dragons Dogma Dark Arisen <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1158,10 +1165,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3054 handler:start | TCXS Project |  Evil Within  -->
 <button id="3054" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Evil Within ';" autofocus>
-<img src="imagens/ps3/evilwithin.png"></button>
+<img src="imagens/ps3/evilwithin.jpg"></button>
 <div id="janela_ Evil Within " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/evilwithin.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/evilwithin.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Evil Within <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1179,10 +1186,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3055 handler:start | TCXS Project |  F.E.A.R 2 Project Origin -->
 <button id="3055" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ F.E.A.R 2 Project Origin';" autofocus>
-<img src="imagens/ps3/fear2.png"></button>
+<img src="imagens/ps3/fear2.jpg"></button>
 <div id="janela_ F.E.A.R 2 Project Origin" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/fear2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/fear2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  F.E.A.R 2 Project Origin<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1200,10 +1207,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3056 handler:start | TCXS Project |  F.E.A.R 3 -->
 <button id="3056" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ F.E.A.R 3';" autofocus>
-<img src="imagens/ps3/fear3.png"></button>
+<img src="imagens/ps3/fear3.jpg"></button>
 <div id="janela_ F.E.A.R 3" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/fear3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/fear3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  F.E.A.R 3<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1221,10 +1228,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3057 handler:start | TCXS Project |  FIFA 19  -->
 <button id="3057" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ FIFA 19 ';" autofocus>
-<img src="imagens/ps3/fifa19.png"></button>
+<img src="imagens/ps3/fifa19.jpg"></button>
 <div id="janela_ FIFA 19 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/fifa19.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/fifa19.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  FIFA 19 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1242,10 +1249,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3058 handler:start | TCXS Project |  Fallout 3: GOTY  -->
 <button id="3058" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Fallout 3: GOTY ';" autofocus>
-<img src="imagens/ps3/fallout3.png"></button>
+<img src="imagens/ps3/fallout3.jpg"></button>
 <div id="janela_ Fallout 3: GOTY " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/fallout3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/fallout3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Fallout 3: GOTY <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1263,10 +1270,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3059 handler:start | TCXS Project |  Far Cry 2  -->
 <button id="3059" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Far Cry 2 ';" autofocus>
-<img src="imagens/ps3/farcry2.png"></button>
+<img src="imagens/ps3/farcry2.jpg"></button>
 <div id="janela_ Far Cry 2 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/farcry2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/farcry2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Far Cry 2 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1284,10 +1291,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3060 handler:start | TCXS Project |  Far Cry 3  -->
 <button id="3060" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Far Cry 3 ';" autofocus>
-<img src="imagens/ps3/farcry3.png"></button>
+<img src="imagens/ps3/farcry3.jpg"></button>
 <div id="janela_ Far Cry 3 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/farcry3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/farcry3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Far Cry 3 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1305,10 +1312,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3061 handler:start | TCXS Project |  Far Cry 4  -->
 <button id="3061" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Far Cry 4 ';" autofocus>
-<img src="imagens/ps3/farcry4.png"></button>
+<img src="imagens/ps3/farcry4.jpg"></button>
 <div id="janela_ Far Cry 4 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/farcry4.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/farcry4.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Far Cry 4 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1326,10 +1333,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3062 handler:start | TCXS Project |  Final Fantasy XIII -->
 <button id="3062" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Final Fantasy XIII';" autofocus>
-<img src="imagens/ps3/ffxiii2.png"></button>
+<img src="imagens/ps3/ffxiii2.jpg"></button>
 <div id="janela_ Final Fantasy XIII" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/ffxiii2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/ffxiii2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Final Fantasy XIII<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1347,10 +1354,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3063 handler:start | TCXS Project |  Formula 1 2012 [PT -->
 <button id="3063" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Formula 1 2012 [PT';" autofocus>
-<img src="imagens/ps3/f12.png"></button>
+<img src="imagens/ps3/f12.jpg"></button>
 <div id="janela_ Formula 1 2012 [PT" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/f12.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/f12.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Formula 1 2012 [PT<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1368,10 +1375,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3064 handler:start | TCXS Project |  God Of War 3 -->
 <button id="3064" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ God Of War 3';" autofocus>
-<img src="imagens/ps3/gow3.png"></button>
+<img src="imagens/ps3/gow3.jpg"></button>
 <div id="janela_ God Of War 3" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/gow3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/gow3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  God Of War 3<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1389,10 +1396,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3065 handler:start | TCXS Project |  God of War 3  -->
 <button id="3065" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ God of War 3 ';" autofocus>
-<img src="imagens/ps3/gow3sp.png"></button>
+<img src="imagens/ps3/gow3sp.jpg"></button>
 <div id="janela_ God of War 3 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/gow3sp.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/gow3sp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  God of War 3 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1410,10 +1417,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3066 handler:start | TCXS Project |  God of War Ascension  -->
 <button id="3066" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ God of War Ascension ';" autofocus>
-<img src="imagens/ps3/gowascension.png"></button>
+<img src="imagens/ps3/gowascension.jpg"></button>
 <div id="janela_ God of War Ascension " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/gowascension.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/gowascension.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  God of War Ascension <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1431,10 +1438,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3067 handler:start | TCXS Project |  God of War Collection Vol 1 -->
 <button id="3067" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ God of War Collection Vol 1';" autofocus>
-<img src="imagens/ps3/gowgssp.png"></button>
+<img src="imagens/ps3/gowgssp.jpg"></button>
 <div id="janela_ God of War Collection Vol 1" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/gowgssp.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/gowgssp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  God of War Collection Vol 1<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1452,10 +1459,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3068 handler:start | TCXS Project |  Gran Turismo 5 XL  -->
 <button id="3068" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Gran Turismo 5 XL ';" autofocus>
-<img src="imagens/ps3/granturismo5sp.png"></button>
+<img src="imagens/ps3/granturismo5sp.jpg"></button>
 <div id="janela_ Gran Turismo 5 XL " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/granturismo5sp.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/granturismo5sp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Gran Turismo 5 XL <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1473,10 +1480,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3069 handler:start | TCXS Project |  Grand Theft Auto V  -->
 <button id="3069" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Grand Theft Auto V ';" autofocus>
-<img src="imagens/ps3/gta5sp.png"></button>
+<img src="imagens/ps3/gta5sp.jpg"></button>
 <div id="janela_ Grand Theft Auto V " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/gta5sp.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/gta5sp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Grand Theft Auto V <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1494,10 +1501,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3070 handler:start | TCXS Project |  Grid 2  -->
 <button id="3070" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Grid 2 ';" autofocus>
-<img src="imagens/ps3/grid2.png"></button>
+<img src="imagens/ps3/grid2.jpg"></button>
 <div id="janela_ Grid 2 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/grid2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/grid2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Grid 2 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1515,10 +1522,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3071 handler:start | TCXS Project |  Grid Autosport  -->
 <button id="3071" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Grid Autosport ';" autofocus>
-<img src="imagens/ps3/gridautosport.png"></button>
+<img src="imagens/ps3/gridautosport.jpg"></button>
 <div id="janela_ Grid Autosport " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/gridautosport.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/gridautosport.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Grid Autosport <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1536,10 +1543,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3072 handler:start | TCXS Project |  Guilty Gear Xrd -->
 <button id="3072" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Guilty Gear Xrd';" autofocus>
-<img src="imagens/ps3/guilty.png"></button>
+<img src="imagens/ps3/guilty.jpg"></button>
 <div id="janela_ Guilty Gear Xrd" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/guilty.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/guilty.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Guilty Gear Xrd<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1557,10 +1564,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3073 handler:start | TCXS Project |  Guitar Hero 3 Legends of Rock -->
 <button id="3073" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Guitar Hero 3 Legends of Rock';" autofocus>
-<img src="imagens/ps3/guitar3rl.png"></button>
+<img src="imagens/ps3/guitar3rl.jpg"></button>
 <div id="janela_ Guitar Hero 3 Legends of Rock" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/guitar3rl.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/guitar3rl.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Guitar Hero 3 Legends of Rock<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1578,10 +1585,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3074 handler:start | TCXS Project |  Guitar Hero 5  -->
 <button id="3074" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Guitar Hero 5 ';" autofocus>
-<img src="imagens/ps3/gh5.png"></button>
+<img src="imagens/ps3/gh5.jpg"></button>
 <div id="janela_ Guitar Hero 5 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/gh5.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/gh5.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Guitar Hero 5 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1599,10 +1606,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3075 handler:start | TCXS Project |  Guitar Hero Aerosmith -->
 <button id="3075" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Guitar Hero Aerosmith';" autofocus>
-<img src="imagens/ps3/ghas.png"></button>
+<img src="imagens/ps3/ghas.jpg"></button>
 <div id="janela_ Guitar Hero Aerosmith" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/ghas.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/ghas.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Guitar Hero Aerosmith<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1620,10 +1627,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3076 handler:start | TCXS Project |  Heavenly Sword  -->
 <button id="3076" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Heavenly Sword ';" autofocus>
-<img src="imagens/ps3/heavenlysword.png"></button>
+<img src="imagens/ps3/heavenlysword.jpg"></button>
 <div id="janela_ Heavenly Sword " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/heavenlysword.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/heavenlysword.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Heavenly Sword <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1641,10 +1648,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3077 handler:start | TCXS Project |  Heavy Rain -->
 <button id="3077" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Heavy Rain';" autofocus>
-<img src="imagens/ps3/heavyrain.png"></button>
+<img src="imagens/ps3/heavyrain.jpg"></button>
 <div id="janela_ Heavy Rain" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/heavyrain.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/heavyrain.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Heavy Rain<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1662,10 +1669,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3078 handler:start | TCXS Project |  Ico / Shadow of the Colossus HD  -->
 <button id="3078" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Ico / Shadow of the Colossus HD ';" autofocus>
-<img src="imagens/ps3/ico_shadow.png"></button>
+<img src="imagens/ps3/ico_shadow.jpg"></button>
 <div id="janela_ Ico / Shadow of the Colossus HD " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/ico_shadow.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/ico_shadow.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Ico / Shadow of the Colossus HD <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1683,10 +1690,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3079 handler:start | TCXS Project |  Infamous 2  -->
 <button id="3079" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Infamous 2 ';" autofocus>
-<img src="imagens/ps3/infamous2.png"></button>
+<img src="imagens/ps3/infamous2.jpg"></button>
 <div id="janela_ Infamous 2 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/infamous2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/infamous2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Infamous 2 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1704,10 +1711,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3080 handler:start | TCXS Project |  Infamous -->
 <button id="3080" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Infamous';" autofocus>
-<img src="imagens/ps3/infamous.png"></button>
+<img src="imagens/ps3/infamous.jpg"></button>
 <div id="janela_ Infamous" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/infamous.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/infamous.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Infamous<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1725,10 +1732,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3081 handler:start | TCXS Project |  Injustce Gods Among Us -->
 <button id="3081" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Injustce Gods Among Us';" autofocus>
-<img src="imagens/ps3/injustice.png"></button>
+<img src="imagens/ps3/injustice.jpg"></button>
 <div id="janela_ Injustce Gods Among Us" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/injustice.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/injustice.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Injustce Gods Among Us<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1746,10 +1753,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3082 handler:start | TCXS Project |  Iron Man 2 -->
 <button id="3082" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Iron Man 2';" autofocus>
-<img src="imagens/ps3/iron2.png"></button>
+<img src="imagens/ps3/iron2.jpg"></button>
 <div id="janela_ Iron Man 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/iron2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/iron2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Iron Man 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1767,10 +1774,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3083 handler:start | TCXS Project |  J -->
 <button id="3083" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ J';" autofocus>
-<img src="imagens/ps3/jstars.png"></button>
+<img src="imagens/ps3/jstars.jpg"></button>
 <div id="janela_ J" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/jstars.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/jstars.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  J<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1788,10 +1795,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3084 handler:start | TCXS Project |  JoJo Bizarre Adventure Eyes of Heaven -->
 <button id="3084" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ JoJo Bizarre Adventure Eyes of Heaven';" autofocus>
-<img src="imagens/ps3/jojoh.png"></button>
+<img src="imagens/ps3/jojoh.jpg"></button>
 <div id="janela_ JoJo Bizarre Adventure Eyes of Heaven" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/jojoh.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/jojoh.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  JoJo Bizarre Adventure Eyes of Heaven<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1809,10 +1816,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3085 handler:start | TCXS Project |  JoJo’s Bizarre Adventure All -->
 <button id="3085" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ JoJo’s Bizarre Adventure All';" autofocus>
-<img src="imagens/ps3/jojo.png"></button>
+<img src="imagens/ps3/jojo.jpg"></button>
 <div id="janela_ JoJo’s Bizarre Adventure All" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/jojo.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/jojo.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  JoJo’s Bizarre Adventure All<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1830,10 +1837,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3086 handler:start | TCXS Project |  Just Dance 2014 -->
 <button id="3086" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Just Dance 2014';" autofocus>
-<img src="imagens/ps3/justdance14.png"></button>
+<img src="imagens/ps3/justdance14.jpg"></button>
 <div id="janela_ Just Dance 2014" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/justdance14.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/justdance14.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Just Dance 2014<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1851,10 +1858,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3087 handler:start | TCXS Project |  Just Dance 2015 -->
 <button id="3087" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Just Dance 2015';" autofocus>
-<img src="imagens/ps3/justdance15.png"></button>
+<img src="imagens/ps3/justdance15.jpg"></button>
 <div id="janela_ Just Dance 2015" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/justdance15.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/justdance15.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Just Dance 2015<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1872,10 +1879,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3088 handler:start | TCXS Project |  Killzone 2  -->
 <button id="3088" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Killzone 2 ';" autofocus>
-<img src="imagens/ps3/killzone2.png"></button>
+<img src="imagens/ps3/killzone2.jpg"></button>
 <div id="janela_ Killzone 2 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/killzone2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/killzone2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Killzone 2 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1893,10 +1900,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3089 handler:start | TCXS Project |  Killzone 3  -->
 <button id="3089" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Killzone 3 ';" autofocus>
-<img src="imagens/ps3/killzone3.png"></button>
+<img src="imagens/ps3/killzone3.jpg"></button>
 <div id="janela_ Killzone 3 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/killzone3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/killzone3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Killzone 3 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1914,10 +1921,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3090 handler:start | TCXS Project |  L.A. Noire  -->
 <button id="3090" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ L.A. Noire ';" autofocus>
-<img src="imagens/ps3/lanoire.png"></button>
+<img src="imagens/ps3/lanoire.jpg"></button>
 <div id="janela_ L.A. Noire " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/lanoire.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/lanoire.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  L.A. Noire <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1935,10 +1942,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3091 handler:start | TCXS Project |  LEGO Batman 2 DC Super Heroes -->
 <button id="3091" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ LEGO Batman 2 DC Super Heroes';" autofocus>
-<img src="imagens/ps3/legobat2.png"></button>
+<img src="imagens/ps3/legobat2.jpg"></button>
 <div id="janela_ LEGO Batman 2 DC Super Heroes" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/legobat2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/legobat2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  LEGO Batman 2 DC Super Heroes<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1956,10 +1963,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3092 handler:start | TCXS Project |  LEGO Batman 3 DC Beyond Gotham -->
 <button id="3092" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ LEGO Batman 3 DC Beyond Gotham';" autofocus>
-<img src="imagens/ps3/legobat3.png"></button>
+<img src="imagens/ps3/legobat3.jpg"></button>
 <div id="janela_ LEGO Batman 3 DC Beyond Gotham" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/legobat3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/legobat3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  LEGO Batman 3 DC Beyond Gotham<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1977,10 +1984,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3093 handler:start | TCXS Project |  LEGO Indiana Jones 2 LEGENDADO -->
 <button id="3093" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ LEGO Indiana Jones 2 LEGENDADO';" autofocus>
-<img src="imagens/ps3/legojones2.png"></button>
+<img src="imagens/ps3/legojones2.jpg"></button>
 <div id="janela_ LEGO Indiana Jones 2 LEGENDADO" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/legojones2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/legojones2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  LEGO Indiana Jones 2 LEGENDADO<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1998,10 +2005,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3094 handler:start | TCXS Project |  LEGO Jurassic World -->
 <button id="3094" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ LEGO Jurassic World';" autofocus>
-<img src="imagens/ps3/legojurassic.png"></button>
+<img src="imagens/ps3/legojurassic.jpg"></button>
 <div id="janela_ LEGO Jurassic World" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/legojurassic.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/legojurassic.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  LEGO Jurassic World<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2019,10 +2026,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3095 handler:start | TCXS Project |  LEGO Movie VideoGame -->
 <button id="3095" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ LEGO Movie VideoGame';" autofocus>
-<img src="imagens/ps3/legomovie.png"></button>
+<img src="imagens/ps3/legomovie.jpg"></button>
 <div id="janela_ LEGO Movie VideoGame" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/legomovie.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/legomovie.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  LEGO Movie VideoGame<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2040,10 +2047,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3096 handler:start | TCXS Project |  LEGO Rock Band -->
 <button id="3096" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ LEGO Rock Band';" autofocus>
-<img src="imagens/ps3/legorock.png"></button>
+<img src="imagens/ps3/legorock.jpg"></button>
 <div id="janela_ LEGO Rock Band" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/legorock.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/legorock.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  LEGO Rock Band<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2061,10 +2068,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3097 handler:start | TCXS Project |  Lair  -->
 <button id="3097" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Lair ';" autofocus>
-<img src="imagens/ps3/lair.png"></button>
+<img src="imagens/ps3/lair.jpg"></button>
 <div id="janela_ Lair " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/lair.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/lair.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Lair <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2082,10 +2089,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3098 handler:start | TCXS Project |  Lego Marvel Super Heroes -->
 <button id="3098" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Lego Marvel Super Heroes';" autofocus>
-<img src="imagens/ps3/legomarvel.png"></button>
+<img src="imagens/ps3/legomarvel.jpg"></button>
 <div id="janela_ Lego Marvel Super Heroes" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/legomarvel.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/legomarvel.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Lego Marvel Super Heroes<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2103,10 +2110,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3099 handler:start | TCXS Project |  Lego Marvels Avengers -->
 <button id="3099" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Lego Marvels Avengers';" autofocus>
-<img src="imagens/ps3/legoavengers.png"></button>
+<img src="imagens/ps3/legoavengers.jpg"></button>
 <div id="janela_ Lego Marvels Avengers" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/legoavengers.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/legoavengers.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Lego Marvels Avengers<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2124,10 +2131,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3100 handler:start | TCXS Project |  Lego The Lord of the Rings -->
 <button id="3100" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Lego The Lord of the Rings';" autofocus>
-<img src="imagens/ps3/legorings.png"></button>
+<img src="imagens/ps3/legorings.jpg"></button>
 <div id="janela_ Lego The Lord of the Rings" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/legorings.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/legorings.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Lego The Lord of the Rings<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2145,10 +2152,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3101 handler:start | TCXS Project |  Lightning Returns Final Fantasy -->
 <button id="3101" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Lightning Returns Final Fantasy';" autofocus>
-<img src="imagens/ps3/ffxiii-3.png"></button>
+<img src="imagens/ps3/ffxiii-3.jpg"></button>
 <div id="janela_ Lightning Returns Final Fantasy" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/ffxiii-3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/ffxiii-3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Lightning Returns Final Fantasy<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2166,10 +2173,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3102 handler:start | TCXS Project |  Lost Planet 2 -->
 <button id="3102" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Lost Planet 2';" autofocus>
-<img src="imagens/ps3/lp2.png"></button>
+<img src="imagens/ps3/lp2.jpg"></button>
 <div id="janela_ Lost Planet 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/lp2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/lp2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Lost Planet 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2187,10 +2194,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3103 handler:start | TCXS Project |  Lost Planet 3 -->
 <button id="3103" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Lost Planet 3';" autofocus>
-<img src="imagens/ps3/lostplanet3.png"></button>
+<img src="imagens/ps3/lostplanet3.jpg"></button>
 <div id="janela_ Lost Planet 3" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/lostplanet3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/lostplanet3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Lost Planet 3<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2208,10 +2215,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3104 handler:start | TCXS Project |  Lost Planet: Extreme Condition  -->
 <button id="3104" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Lost Planet: Extreme Condition ';" autofocus>
-<img src="imagens/ps3/lostplanet.png"></button>
+<img src="imagens/ps3/lostplanet.jpg"></button>
 <div id="janela_ Lost Planet: Extreme Condition " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/lostplanet.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/lostplanet.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Lost Planet: Extreme Condition <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2229,10 +2236,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3105 handler:start | TCXS Project |  MK vs DC  -->
 <button id="3105" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ MK vs DC ';" autofocus>
-<img src="imagens/ps3/mkvsdc.png"></button>
+<img src="imagens/ps3/mkvsdc.jpg"></button>
 <div id="janela_ MK vs DC " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/mkvsdc.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/mkvsdc.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  MK vs DC <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2250,10 +2257,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3106 handler:start | TCXS Project |  Mafia 2 Director Cut  -->
 <button id="3106" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Mafia 2 Director Cut ';" autofocus>
-<img src="imagens/ps3/mafia2.png"></button>
+<img src="imagens/ps3/mafia2.jpg"></button>
 <div id="janela_ Mafia 2 Director Cut " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/mafia2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/mafia2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Mafia 2 Director Cut <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2271,10 +2278,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3107 handler:start | TCXS Project |  Mass Effect 2 -->
 <button id="3107" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Mass Effect 2';" autofocus>
-<img src="imagens/ps3/masseffect2.png"></button>
+<img src="imagens/ps3/masseffect2.jpg"></button>
 <div id="janela_ Mass Effect 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/masseffect2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/masseffect2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Mass Effect 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2292,10 +2299,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3108 handler:start | TCXS Project |  Max Payne 3  -->
 <button id="3108" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Max Payne 3 ';" autofocus>
-<img src="imagens/ps3/maxpayne3.png"></button>
+<img src="imagens/ps3/maxpayne3.jpg"></button>
 <div id="janela_ Max Payne 3 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/maxpayne3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/maxpayne3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Max Payne 3 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2313,10 +2320,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3109 handler:start | TCXS Project |  Medal of Honor Warfighter -->
 <button id="3109" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Medal of Honor Warfighter';" autofocus>
-<img src="imagens/ps3/medalofhonor.png"></button>
+<img src="imagens/ps3/medalofhonor.jpg"></button>
 <div id="janela_ Medal of Honor Warfighter" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/medalofhonor.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/medalofhonor.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Medal of Honor Warfighter<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2334,10 +2341,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3110 handler:start | TCXS Project |  Metal Gear Rising Revengeance  -->
 <button id="3110" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Metal Gear Rising Revengeance ';" autofocus>
-<img src="imagens/ps3/mgsrising.png"></button>
+<img src="imagens/ps3/mgsrising.jpg"></button>
 <div id="janela_ Metal Gear Rising Revengeance " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/mgsrising.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/mgsrising.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Metal Gear Rising Revengeance <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2355,10 +2362,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3111 handler:start | TCXS Project |  Metal Gear Solid 4: Guns of the Patriots  -->
 <button id="3111" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Metal Gear Solid 4: Guns of the Patriots ';" autofocus>
-<img src="imagens/ps3/metalgearsolid4.png"></button>
+<img src="imagens/ps3/metalgearsolid4.jpg"></button>
 <div id="janela_ Metal Gear Solid 4: Guns of the Patriots " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/metalgearsolid4.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/metalgearsolid4.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Metal Gear Solid 4: Guns of the Patriots <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2376,10 +2383,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3112 handler:start | TCXS Project |  Metal Gear Solid HD Collection  -->
 <button id="3112" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Metal Gear Solid HD Collection ';" autofocus>
-<img src="imagens/ps3/mgshdcollection.png"></button>
+<img src="imagens/ps3/mgshdcollection.jpg"></button>
 <div id="janela_ Metal Gear Solid HD Collection " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/mgshdcollection.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/mgshdcollection.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Metal Gear Solid HD Collection <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2397,10 +2404,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3113 handler:start | TCXS Project |  Metal Gear Solid V Ground Zeroes -->
 <button id="3113" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Metal Gear Solid V Ground Zeroes';" autofocus>
-<img src="imagens/ps3/metalgear5∅.png"></button>
+<img src="imagens/ps3/metalgear5∅.jpg"></button>
 <div id="janela_ Metal Gear Solid V Ground Zeroes" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/metalgear5∅.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/metalgear5∅.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Metal Gear Solid V Ground Zeroes<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2418,10 +2425,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3114 handler:start | TCXS Project |  Metal Gear Solid V The Phantom Pain -->
 <button id="3114" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Metal Gear Solid V The Phantom Pain';" autofocus>
-<img src="imagens/ps3/mgsvgz.png"></button>
+<img src="imagens/ps3/mgsvgz.jpg"></button>
 <div id="janela_ Metal Gear Solid V The Phantom Pain" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/mgsvgz.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/mgsvgz.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Metal Gear Solid V The Phantom Pain<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2439,10 +2446,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3115 handler:start | TCXS Project |  Metro Last Ligth  -->
 <button id="3115" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Metro Last Ligth ';" autofocus>
-<img src="imagens/ps3/metroligth.png"></button>
+<img src="imagens/ps3/metroligth.jpg"></button>
 <div id="janela_ Metro Last Ligth " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/metroligth.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/metroligth.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Metro Last Ligth <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2460,10 +2467,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3116 handler:start | TCXS Project |  Midnight Club Los Angeles -->
 <button id="3116" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Midnight Club Los Angeles';" autofocus>
-<img src="imagens/ps3/midlosangeles.png"></button>
+<img src="imagens/ps3/midlosangeles.jpg"></button>
 <div id="janela_ Midnight Club Los Angeles" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/midlosangeles.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/midlosangeles.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Midnight Club Los Angeles<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2481,10 +2488,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3117 handler:start | TCXS Project |  Minecraft Story Mode LEGENDADO -->
 <button id="3117" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Minecraft Story Mode LEGENDADO';" autofocus>
-<img src="imagens/ps3/minestory.png"></button>
+<img src="imagens/ps3/minestory.jpg"></button>
 <div id="janela_ Minecraft Story Mode LEGENDADO" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/minestory.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/minestory.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Minecraft Story Mode LEGENDADO<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2502,10 +2509,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3118 handler:start | TCXS Project |  Minecraft -->
 <button id="3118" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Minecraft';" autofocus>
-<img src="imagens/ps3/minecraft.png"></button>
+<img src="imagens/ps3/minecraft.jpg"></button>
 <div id="janela_ Minecraft" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/minecraft.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/minecraft.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Minecraft<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2523,10 +2530,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3119 handler:start | TCXS Project |  Mortal Kombat 9 Komplete -->
 <button id="3119" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Mortal Kombat 9 Komplete';" autofocus>
-<img src="imagens/ps3/mk9lg.png"></button>
+<img src="imagens/ps3/mk9lg.jpg"></button>
 <div id="janela_ Mortal Kombat 9 Komplete" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/mk9lg.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/mk9lg.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Mortal Kombat 9 Komplete<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2544,10 +2551,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3120 handler:start | TCXS Project |  Naruto Shippuden Ultimate Ninja STORM 3 Full Burst  -->
 <button id="3120" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Naruto Shippuden Ultimate Ninja STORM 3 Full Burst ';" autofocus>
-<img src="imagens/ps3/naruto3.png"></button>
+<img src="imagens/ps3/naruto3.jpg"></button>
 <div id="janela_ Naruto Shippuden Ultimate Ninja STORM 3 Full Burst " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/naruto3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/naruto3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Naruto Shippuden Ultimate Ninja STORM 3 Full Burst <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2565,10 +2572,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3121 handler:start | TCXS Project |  Naruto Shippuden Ultimate Ninja Storm Generations -->
 <button id="3121" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Naruto Shippuden Ultimate Ninja Storm Generations';" autofocus>
-<img src="imagens/ps3/narutounsg.png"></button>
+<img src="imagens/ps3/narutounsg.jpg"></button>
 <div id="janela_ Naruto Shippuden Ultimate Ninja Storm Generations" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/narutounsg.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/narutounsg.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Naruto Shippuden Ultimate Ninja Storm Generations<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2586,10 +2593,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3122 handler:start | TCXS Project |  Naruto Shippuden Ultimate Ninja Storm Revolution -->
 <button id="3122" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Naruto Shippuden Ultimate Ninja Storm Revolution';" autofocus>
-<img src="imagens/ps3/narutorevo.png"></button>
+<img src="imagens/ps3/narutorevo.jpg"></button>
 <div id="janela_ Naruto Shippuden Ultimate Ninja Storm Revolution" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/narutorevo.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/narutorevo.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Naruto Shippuden Ultimate Ninja Storm Revolution<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2607,10 +2614,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3123 handler:start | TCXS Project |  Need For Speed  -->
 <button id="3123" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Need For Speed ';" autofocus>
-<img src="imagens/ps3/needhot.png"></button>
+<img src="imagens/ps3/needhot.jpg"></button>
 <div id="janela_ Need For Speed " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/needhot.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/needhot.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Need For Speed <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2628,10 +2635,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3124 handler:start | TCXS Project |  Need For Speed Prostreet -->
 <button id="3124" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Need For Speed Prostreet';" autofocus>
-<img src="imagens/ps3/needstreet.png"></button>
+<img src="imagens/ps3/needstreet.jpg"></button>
 <div id="janela_ Need For Speed Prostreet" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/needstreet.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/needstreet.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Need For Speed Prostreet<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2649,10 +2656,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3125 handler:start | TCXS Project |  Need For Speed Shift -->
 <button id="3125" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Need For Speed Shift';" autofocus>
-<img src="imagens/ps3/needshift.png"></button>
+<img src="imagens/ps3/needshift.jpg"></button>
 <div id="janela_ Need For Speed Shift" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/needshift.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/needshift.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Need For Speed Shift<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2670,10 +2677,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3126 handler:start | TCXS Project |  Need For Speed The Run -->
 <button id="3126" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Need For Speed The Run';" autofocus>
-<img src="imagens/ps3/needrun.png"></button>
+<img src="imagens/ps3/needrun.jpg"></button>
 <div id="janela_ Need For Speed The Run" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/needrun.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/needrun.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Need For Speed The Run<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2691,10 +2698,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3127 handler:start | TCXS Project |  Need for Speed Most Wanted -->
 <button id="3127" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Need for Speed Most Wanted';" autofocus>
-<img src="imagens/ps3/needwanted.png"></button>
+<img src="imagens/ps3/needwanted.jpg"></button>
 <div id="janela_ Need for Speed Most Wanted" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/needwanted.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/needwanted.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Need for Speed Most Wanted<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2712,10 +2719,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3128 handler:start | TCXS Project |  Need for Speed Shift 2 Unleashed -->
 <button id="3128" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Need for Speed Shift 2 Unleashed';" autofocus>
-<img src="imagens/ps3/needshift2.png"></button>
+<img src="imagens/ps3/needshift2.jpg"></button>
 <div id="janela_ Need for Speed Shift 2 Unleashed" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/needshift2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/needshift2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Need for Speed Shift 2 Unleashed<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2733,10 +2740,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3129 handler:start | TCXS Project |  Need for Speed: Rivals  -->
 <button id="3129" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Need for Speed: Rivals ';" autofocus>
-<img src="imagens/ps3/needrivals.png"></button>
+<img src="imagens/ps3/needrivals.jpg"></button>
 <div id="janela_ Need for Speed: Rivals " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/needrivals.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/needrivals.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Need for Speed: Rivals <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2754,10 +2761,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3130 handler:start | TCXS Project |  Ni No Kuni A Ira da Brucha Branca -->
 <button id="3130" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Ni No Kuni A Ira da Brucha Branca';" autofocus>
-<img src="imagens/ps3/ninokuni.png"></button>
+<img src="imagens/ps3/ninokuni.jpg"></button>
 <div id="janela_ Ni No Kuni A Ira da Brucha Branca" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/ninokuni.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/ninokuni.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Ni No Kuni A Ira da Brucha Branca<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2775,10 +2782,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3131 handler:start | TCXS Project |  Ninja Gaiden 3 -->
 <button id="3131" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Ninja Gaiden 3';" autofocus>
-<img src="imagens/ps3/ninjag3.png"></button>
+<img src="imagens/ps3/ninjag3.jpg"></button>
 <div id="janela_ Ninja Gaiden 3" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/ninjag3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/ninjag3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Ninja Gaiden 3<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2796,10 +2803,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3132 handler:start | TCXS Project |  Odin Sphere Leifthrasir -->
 <button id="3132" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Odin Sphere Leifthrasir';" autofocus>
-<img src="imagens/ps3/odinsl.png"></button>
+<img src="imagens/ps3/odinsl.jpg"></button>
 <div id="janela_ Odin Sphere Leifthrasir" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/odinsl.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/odinsl.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Odin Sphere Leifthrasir<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2817,10 +2824,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3133 handler:start | TCXS Project |  PES 2010 -->
 <button id="3133" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ PES 2010';" autofocus>
-<img src="imagens/ps3/pes10.png"></button>
+<img src="imagens/ps3/pes10.jpg"></button>
 <div id="janela_ PES 2010" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/pes10.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/pes10.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  PES 2010<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2838,10 +2845,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3134 handler:start | TCXS Project |  PES 2016 -->
 <button id="3134" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ PES 2016';" autofocus>
-<img src="imagens/ps3/pes16.png"></button>
+<img src="imagens/ps3/pes16.jpg"></button>
 <div id="janela_ PES 2016" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/pes16.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/pes16.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  PES 2016<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2859,10 +2866,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3135 handler:start | TCXS Project |  PS3  -->
 <button id="3135" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ PS3 ';" autofocus>
-<img src="imagens/ps3/needcover.png"></button>
+<img src="imagens/ps3/needcover.jpg"></button>
 <div id="janela_ PS3 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/needcover.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/needcover.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  PS3 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2880,10 +2887,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3136 handler:start | TCXS Project |  Persona 5  -->
 <button id="3136" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Persona 5 ';" autofocus>
-<img src="imagens/ps3/persona5.png"></button>
+<img src="imagens/ps3/persona5.jpg"></button>
 <div id="janela_ Persona 5 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/persona5.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/persona5.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Persona 5 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2901,10 +2908,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3137 handler:start | TCXS Project |  Pes 13 MOD2019 -->
 <button id="3137" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Pes 13 MOD2019';" autofocus>
-<img src="imagens/ps3/pes13-19.png"></button>
+<img src="imagens/ps3/pes13-19.jpg"></button>
 <div id="janela_ Pes 13 MOD2019" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/pes13-19.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/pes13-19.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Pes 13 MOD2019<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2922,10 +2929,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3138 handler:start | TCXS Project |  Pes 18  -->
 <button id="3138" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Pes 18 ';" autofocus>
-<img src="imagens/ps3/pes18.png"></button>
+<img src="imagens/ps3/pes18.jpg"></button>
 <div id="janela_ Pes 18 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/pes18.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/pes18.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Pes 18 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2943,10 +2950,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3139 handler:start | TCXS Project |  Pes 18 (20 MOD) -->
 <button id="3139" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Pes 18 (20 MOD)';" autofocus>
-<img src="imagens/ps3/pes20.png"></button>
+<img src="imagens/ps3/pes20.jpg"></button>
 <div id="janela_ Pes 18 (20 MOD)" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/pes20.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/pes20.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Pes 18 (20 MOD)<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2964,10 +2971,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3140 handler:start | TCXS Project |  Plants vs Zombies Garden Wargare -->
 <button id="3140" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Plants vs Zombies Garden Wargare';" autofocus>
-<img src="imagens/ps3/pvzwar.png"></button>
+<img src="imagens/ps3/pvzwar.jpg"></button>
 <div id="janela_ Plants vs Zombies Garden Wargare" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/pvzwar.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/pvzwar.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Plants vs Zombies Garden Wargare<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -2985,10 +2992,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3141 handler:start | TCXS Project |  Portal 2  -->
 <button id="3141" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Portal 2 ';" autofocus>
-<img src="imagens/ps3/portal2.png"></button>
+<img src="imagens/ps3/portal2.jpg"></button>
 <div id="janela_ Portal 2 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/portal2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/portal2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Portal 2 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3006,10 +3013,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3142 handler:start | TCXS Project |  Psycho Break The Evil Within -->
 <button id="3142" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Psycho Break The Evil Within';" autofocus>
-<img src="imagens/ps3/evilwithin.png"></button>
+<img src="imagens/ps3/evilwithin.jpg"></button>
 <div id="janela_ Psycho Break The Evil Within" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/evilwithin.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/evilwithin.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Psycho Break The Evil Within<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3027,10 +3034,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3143 handler:start | TCXS Project |  Ratchet  Clank Future  -->
 <button id="3143" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Ratchet  Clank Future ';" autofocus>
-<img src="imagens/ps3/ratchet.png"></button>
+<img src="imagens/ps3/ratchet.jpg"></button>
 <div id="janela_ Ratchet  Clank Future " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/ratchet.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/ratchet.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Ratchet  Clank Future <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3048,10 +3055,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3144 handler:start | TCXS Project |  Ratchet  Clank Q -->
 <button id="3144" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Ratchet  Clank Q';" autofocus>
-<img src="imagens/ps3/ratchetforce.png"></button>
+<img src="imagens/ps3/ratchetforce.jpg"></button>
 <div id="janela_ Ratchet  Clank Q" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/ratchetforce.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/ratchetforce.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Ratchet  Clank Q<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3069,10 +3076,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3145 handler:start | TCXS Project |  Ratchet and Clank All 4 One -->
 <button id="3145" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Ratchet and Clank All 4 One';" autofocus>
-<img src="imagens/ps3/ratchetall.png"></button>
+<img src="imagens/ps3/ratchetall.jpg"></button>
 <div id="janela_ Ratchet and Clank All 4 One" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/ratchetall.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/ratchetall.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Ratchet and Clank All 4 One<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3090,10 +3097,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3146 handler:start | TCXS Project |  Red Dead Redemption Undead Nightmare -->
 <button id="3146" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Red Dead Redemption Undead Nightmare';" autofocus>
-<img src="imagens/ps3/reddead.png"></button>
+<img src="imagens/ps3/reddead.jpg"></button>
 <div id="janela_ Red Dead Redemption Undead Nightmare" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/reddead.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/reddead.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Red Dead Redemption Undead Nightmare<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3111,10 +3118,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3147 handler:start | TCXS Project |  Red Dead Redemption: GOTY  -->
 <button id="3147" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Red Dead Redemption: GOTY ';" autofocus>
-<img src="imagens/ps3/reddeadgotysp.png"></button>
+<img src="imagens/ps3/reddeadgotysp.jpg"></button>
 <div id="janela_ Red Dead Redemption: GOTY " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/reddeadgotysp.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/reddeadgotysp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Red Dead Redemption: GOTY <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3132,10 +3139,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3148 handler:start | TCXS Project |  Resident Evil 6 LEGENDADO -->
 <button id="3148" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Resident Evil 6 LEGENDADO';" autofocus>
-<img src="imagens/ps3/resevil6.png"></button>
+<img src="imagens/ps3/resevil6.jpg"></button>
 <div id="janela_ Resident Evil 6 LEGENDADO" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/resevil6.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/resevil6.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Resident Evil 6 LEGENDADO<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3153,10 +3160,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3149 handler:start | TCXS Project |  Resident Evil Revelations 2 -->
 <button id="3149" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Resident Evil Revelations 2';" autofocus>
-<img src="imagens/ps3/resevilrvl2.png"></button>
+<img src="imagens/ps3/resevilrvl2.jpg"></button>
 <div id="janela_ Resident Evil Revelations 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/resevilrvl2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/resevilrvl2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Resident Evil Revelations 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3174,10 +3181,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3150 handler:start | TCXS Project |  Resident Evil Revelations HD  -->
 <button id="3150" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Resident Evil Revelations HD ';" autofocus>
-<img src="imagens/ps3/rerhd.png"></button>
+<img src="imagens/ps3/rerhd.jpg"></button>
 <div id="janela_ Resident Evil Revelations HD " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/rerhd.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/rerhd.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Resident Evil Revelations HD <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3195,10 +3202,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3151 handler:start | TCXS Project |  ResidentEvil 5 Gold -->
 <button id="3151" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ ResidentEvil 5 Gold';" autofocus>
-<img src="imagens/ps3/re5.png"></button>
+<img src="imagens/ps3/re5.jpg"></button>
 <div id="janela_ ResidentEvil 5 Gold" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/re5.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/re5.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  ResidentEvil 5 Gold<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3216,10 +3223,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3152 handler:start | TCXS Project |  Resistance 2 -->
 <button id="3152" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Resistance 2';" autofocus>
-<img src="imagens/ps3/resistance2.png"></button>
+<img src="imagens/ps3/resistance2.jpg"></button>
 <div id="janela_ Resistance 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/resistance2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/resistance2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Resistance 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3237,10 +3244,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3153 handler:start | TCXS Project |  Resistance 3 -->
 <button id="3153" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Resistance 3';" autofocus>
-<img src="imagens/ps3/resistance3.png"></button>
+<img src="imagens/ps3/resistance3.jpg"></button>
 <div id="janela_ Resistance 3" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/resistance3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/resistance3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Resistance 3<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3258,10 +3265,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3154 handler:start | TCXS Project |  Ridge Racer 7 Platinum Edition  -->
 <button id="3154" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Ridge Racer 7 Platinum Edition ';" autofocus>
-<img src="imagens/ps3/ridge7.png"></button>
+<img src="imagens/ps3/ridge7.jpg"></button>
 <div id="janela_ Ridge Racer 7 Platinum Edition " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/ridge7.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/ridge7.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Ridge Racer 7 Platinum Edition <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3279,10 +3286,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3155 handler:start | TCXS Project |  Risen 3  Titan Lords -->
 <button id="3155" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Risen 3  Titan Lords';" autofocus>
-<img src="imagens/ps3/risen3tl.png"></button>
+<img src="imagens/ps3/risen3tl.jpg"></button>
 <div id="janela_ Risen 3  Titan Lords" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/risen3tl.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/risen3tl.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Risen 3  Titan Lords<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3300,10 +3307,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3156 handler:start | TCXS Project |  Saints Row 2 -->
 <button id="3156" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Saints Row 2';" autofocus>
-<img src="imagens/ps3/saints2.png"></button>
+<img src="imagens/ps3/saints2.jpg"></button>
 <div id="janela_ Saints Row 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/saints2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/saints2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Saints Row 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3321,10 +3328,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3157 handler:start | TCXS Project |  Saints Row 4 -->
 <button id="3157" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Saints Row 4';" autofocus>
-<img src="imagens/ps3/saints4.png"></button>
+<img src="imagens/ps3/saints4.jpg"></button>
 <div id="janela_ Saints Row 4" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/saints4.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/saints4.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Saints Row 4<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3342,10 +3349,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3158 handler:start | TCXS Project |  Shadow of Mordor  -->
 <button id="3158" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Shadow of Mordor ';" autofocus>
-<img src="imagens/ps3/shadowmordor.png"></button>
+<img src="imagens/ps3/shadowmordor.jpg"></button>
 <div id="janela_ Shadow of Mordor " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/shadowmordor.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/shadowmordor.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Shadow of Mordor <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3363,10 +3370,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3159 handler:start | TCXS Project |  Silent Hill Downpour -->
 <button id="3159" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Silent Hill Downpour';" autofocus>
-<img src="imagens/ps3/silenthilldp.png"></button>
+<img src="imagens/ps3/silenthilldp.jpg"></button>
 <div id="janela_ Silent Hill Downpour" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/silenthilldp.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/silenthilldp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Silent Hill Downpour<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3384,10 +3391,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3160 handler:start | TCXS Project |  Skate 3 -->
 <button id="3160" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Skate 3';" autofocus>
-<img src="imagens/ps3/skate3.png"></button>
+<img src="imagens/ps3/skate3.jpg"></button>
 <div id="janela_ Skate 3" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/skate3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/skate3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Skate 3<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3405,10 +3412,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3161 handler:start | TCXS Project |  Sniper Elite III -->
 <button id="3161" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Sniper Elite III';" autofocus>
-<img src="imagens/ps3/sbiperelite3.png"></button>
+<img src="imagens/ps3/sbiperelite3.jpg"></button>
 <div id="janela_ Sniper Elite III" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/sbiperelite3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/sbiperelite3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Sniper Elite III<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3426,10 +3433,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3162 handler:start | TCXS Project |  Sniper Elite V2 -->
 <button id="3162" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Sniper Elite V2';" autofocus>
-<img src="imagens/ps3/sniperelite2.png"></button>
+<img src="imagens/ps3/sniperelite2.jpg"></button>
 <div id="janela_ Sniper Elite V2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/sniperelite2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/sniperelite2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Sniper Elite V2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3447,10 +3454,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3163 handler:start | TCXS Project |  Sniper Ghost Warrior -->
 <button id="3163" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Sniper Ghost Warrior';" autofocus>
-<img src="imagens/ps3/snipergw1.png"></button>
+<img src="imagens/ps3/snipergw1.jpg"></button>
 <div id="janela_ Sniper Ghost Warrior" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/snipergw1.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/snipergw1.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Sniper Ghost Warrior<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3468,10 +3475,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3164 handler:start | TCXS Project |  Sniper Ghost Warrior 2 -->
 <button id="3164" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Sniper Ghost Warrior 2';" autofocus>
-<img src="imagens/ps3/snipergw2.png"></button>
+<img src="imagens/ps3/snipergw2.jpg"></button>
 <div id="janela_ Sniper Ghost Warrior 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/snipergw2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/snipergw2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Sniper Ghost Warrior 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3489,10 +3496,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3165 handler:start | TCXS Project |  Spec Ops The Line -->
 <button id="3165" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Spec Ops The Line';" autofocus>
-<img src="imagens/ps3/specops.png"></button>
+<img src="imagens/ps3/specops.jpg"></button>
 <div id="janela_ Spec Ops The Line" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/specops.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/specops.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Spec Ops The Line<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3510,10 +3517,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3166 handler:start | TCXS Project |  Star Wars Force Unleashed 2 -->
 <button id="3166" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Star Wars Force Unleashed 2';" autofocus>
-<img src="imagens/ps3/starwarsfu2.png"></button>
+<img src="imagens/ps3/starwarsfu2.jpg"></button>
 <div id="janela_ Star Wars Force Unleashed 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/starwarsfu2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/starwarsfu2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Star Wars Force Unleashed 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3531,10 +3538,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3167 handler:start | TCXS Project |  Starhawk [PT -->
 <button id="3167" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Starhawk [PT';" autofocus>
-<img src="imagens/ps3/starhawk.png"></button>
+<img src="imagens/ps3/starhawk.jpg"></button>
 <div id="janela_ Starhawk [PT" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/starhawk.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/starhawk.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Starhawk [PT<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3552,10 +3559,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3168 handler:start | TCXS Project |  TEKKEN 6 -->
 <button id="3168" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ TEKKEN 6';" autofocus>
-<img src="imagens/ps3/tekken.png"></button>
+<img src="imagens/ps3/tekken.jpg"></button>
 <div id="janela_ TEKKEN 6" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/tekken.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/tekken.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  TEKKEN 6<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3573,10 +3580,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3169 handler:start | TCXS Project |  Tales of Berseria  -->
 <button id="3169" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Tales of Berseria ';" autofocus>
-<img src="imagens/ps3/tberseria.png"></button>
+<img src="imagens/ps3/tberseria.jpg"></button>
 <div id="janela_ Tales of Berseria " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/tberseria.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/tberseria.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Tales of Berseria <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3594,10 +3601,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3170 handler:start | TCXS Project |  Test Drive Unlimited 2  -->
 <button id="3170" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Test Drive Unlimited 2 ';" autofocus>
-<img src="imagens/ps3/testdrive2.png"></button>
+<img src="imagens/ps3/testdrive2.jpg"></button>
 <div id="janela_ Test Drive Unlimited 2 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/testdrive2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/testdrive2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Test Drive Unlimited 2 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3615,10 +3622,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3171 handler:start | TCXS Project |  The Amazing Spider -->
 <button id="3171" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ The Amazing Spider';" autofocus>
-<img src="imagens/ps3/miranha.png"></button>
+<img src="imagens/ps3/miranha.jpg"></button>
 <div id="janela_ The Amazing Spider" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/miranha.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/miranha.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  The Amazing Spider<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3636,10 +3643,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3172 handler:start | TCXS Project |  The Elder Scrolls V: Skyrim  -->
 <button id="3172" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ The Elder Scrolls V: Skyrim ';" autofocus>
-<img src="imagens/ps3/skyrimsp.png"></button>
+<img src="imagens/ps3/skyrimsp.jpg"></button>
 <div id="janela_ The Elder Scrolls V: Skyrim " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/skyrimsp.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/skyrimsp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  The Elder Scrolls V: Skyrim <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3657,10 +3664,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3173 handler:start | TCXS Project |  The King of Fighters XII  -->
 <button id="3173" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ The King of Fighters XII ';" autofocus>
-<img src="imagens/ps3/tkofxii.png"></button>
+<img src="imagens/ps3/tkofxii.jpg"></button>
 <div id="janela_ The King of Fighters XII " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/tkofxii.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/tkofxii.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  The King of Fighters XII <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3678,10 +3685,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3174 handler:start | TCXS Project |  The Last of US  -->
 <button id="3174" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ The Last of US ';" autofocus>
-<img src="imagens/ps3/thelastofus.png"></button>
+<img src="imagens/ps3/thelastofus.jpg"></button>
 <div id="janela_ The Last of US " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/thelastofus.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/thelastofus.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  The Last of US <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3699,10 +3706,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3175 handler:start | TCXS Project |  The Walking Dead Goty Edition  -->
 <button id="3175" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ The Walking Dead Goty Edition ';" autofocus>
-<img src="imagens/ps3/twdgoty.png"></button>
+<img src="imagens/ps3/twdgoty.jpg"></button>
 <div id="janela_ The Walking Dead Goty Edition " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/twdgoty.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/twdgoty.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  The Walking Dead Goty Edition <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3720,10 +3727,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3176 handler:start | TCXS Project |  The Walking Dead Season 2  -->
 <button id="3176" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ The Walking Dead Season 2 ';" autofocus>
-<img src="imagens/ps3/wd2.png"></button>
+<img src="imagens/ps3/wd2.jpg"></button>
 <div id="janela_ The Walking Dead Season 2 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/wd2.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/wd2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  The Walking Dead Season 2 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3741,10 +3748,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3177 handler:start | TCXS Project |  Tom Clancy Splinter Cell Blacklist -->
 <button id="3177" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Tom Clancy Splinter Cell Blacklist';" autofocus>
-<img src="imagens/ps3/splinterblack.png"></button>
+<img src="imagens/ps3/splinterblack.jpg"></button>
 <div id="janela_ Tom Clancy Splinter Cell Blacklist" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/splinterblack.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/splinterblack.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Tom Clancy Splinter Cell Blacklist<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3762,10 +3769,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3178 handler:start | TCXS Project |  Tomb Raider  -->
 <button id="3178" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Tomb Raider ';" autofocus>
-<img src="imagens/ps3/tombraider2013sp.png"></button>
+<img src="imagens/ps3/tombraider2013sp.jpg"></button>
 <div id="janela_ Tomb Raider " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/tombraider2013sp.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/tombraider2013sp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Tomb Raider <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3783,10 +3790,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3179 handler:start | TCXS Project |  Toy Story 3 LEGENDADO -->
 <button id="3179" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Toy Story 3 LEGENDADO';" autofocus>
-<img src="imagens/ps3/story3.png"></button>
+<img src="imagens/ps3/story3.jpg"></button>
 <div id="janela_ Toy Story 3 LEGENDADO" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/story3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/story3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Toy Story 3 LEGENDADO<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3804,10 +3811,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3180 handler:start | TCXS Project |  Transformers Dark the Moon -->
 <button id="3180" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Transformers Dark the Moon';" autofocus>
-<img src="imagens/ps3/tdarkmoon.png"></button>
+<img src="imagens/ps3/tdarkmoon.jpg"></button>
 <div id="janela_ Transformers Dark the Moon" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/tdarkmoon.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/tdarkmoon.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Transformers Dark the Moon<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3825,10 +3832,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3181 handler:start | TCXS Project |  Transformers Fall of Cybertron -->
 <button id="3181" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Transformers Fall of Cybertron';" autofocus>
-<img src="imagens/ps3/tcybertron.png"></button>
+<img src="imagens/ps3/tcybertron.jpg"></button>
 <div id="janela_ Transformers Fall of Cybertron" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/tcybertron.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/tcybertron.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Transformers Fall of Cybertron<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3846,10 +3853,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3182 handler:start | TCXS Project |  Transformers Revenge of the Fall -->
 <button id="3182" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Transformers Revenge of the Fall';" autofocus>
-<img src="imagens/ps3/trevenge.png"></button>
+<img src="imagens/ps3/trevenge.jpg"></button>
 <div id="janela_ Transformers Revenge of the Fall" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/trevenge.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/trevenge.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Transformers Revenge of the Fall<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3867,10 +3874,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3183 handler:start | TCXS Project |  UFC 2009 -->
 <button id="3183" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ UFC 2009';" autofocus>
-<img src="imagens/ps3/ufc29.png"></button>
+<img src="imagens/ps3/ufc29.jpg"></button>
 <div id="janela_ UFC 2009" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/ufc29.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/ufc29.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  UFC 2009<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3888,10 +3895,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3184 handler:start | TCXS Project |  Ultimate Marvel Vs Capcom 3  -->
 <button id="3184" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Ultimate Marvel Vs Capcom 3 ';" autofocus>
-<img src="imagens/ps3/umarvel3.png"></button>
+<img src="imagens/ps3/umarvel3.jpg"></button>
 <div id="janela_ Ultimate Marvel Vs Capcom 3 " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/umarvel3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/umarvel3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Ultimate Marvel Vs Capcom 3 <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3909,10 +3916,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3185 handler:start | TCXS Project |  Ultra Street Fighter IV  -->
 <button id="3185" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Ultra Street Fighter IV ';" autofocus>
-<img src="imagens/ps3/ultrastreetfighter4sp.png"></button>
+<img src="imagens/ps3/ultrastreetfighter4sp.jpg"></button>
 <div id="janela_ Ultra Street Fighter IV " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/ultrastreetfighter4sp.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/ultrastreetfighter4sp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Ultra Street Fighter IV <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3930,10 +3937,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3186 handler:start | TCXS Project |  Uncharted 2: Among Thieves  -->
 <button id="3186" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Uncharted 2: Among Thieves ';" autofocus>
-<img src="imagens/ps3/uncharted2sp.png"></button>
+<img src="imagens/ps3/uncharted2sp.jpg"></button>
 <div id="janela_ Uncharted 2: Among Thieves " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/uncharted2sp.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/uncharted2sp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Uncharted 2: Among Thieves <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3951,10 +3958,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3187 handler:start | TCXS Project |  Uncharted 3: Drake Deception  -->
 <button id="3187" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Uncharted 3: Drake Deception ';" autofocus>
-<img src="imagens/ps3/uncharted3.png"></button>
+<img src="imagens/ps3/uncharted3.jpg"></button>
 <div id="janela_ Uncharted 3: Drake Deception " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/uncharted3.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/uncharted3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Uncharted 3: Drake Deception <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3972,10 +3979,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3188 handler:start | TCXS Project |  Uncharted: Drake Fortune  -->
 <button id="3188" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Uncharted: Drake Fortune ';" autofocus>
-<img src="imagens/ps3/uncharted1.png"></button>
+<img src="imagens/ps3/uncharted1.jpg"></button>
 <div id="janela_ Uncharted: Drake Fortune " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/uncharted1.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/uncharted1.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Uncharted: Drake Fortune <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -3993,10 +4000,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3189 handler:start | TCXS Project |  Viking Battle for Asgard -->
 <button id="3189" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Viking Battle for Asgard';" autofocus>
-<img src="imagens/ps3/viking.png"></button>
+<img src="imagens/ps3/viking.jpg"></button>
 <div id="janela_ Viking Battle for Asgard" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/viking.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/viking.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Viking Battle for Asgard<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -4014,10 +4021,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3190 handler:start | TCXS Project |  WWE 2K17 -->
 <button id="3190" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ WWE 2K17';" autofocus>
-<img src="imagens/ps3/wwe.png"></button>
+<img src="imagens/ps3/wwe.jpg"></button>
 <div id="janela_ WWE 2K17" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/wwe.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/wwe.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  WWE 2K17<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -4035,10 +4042,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3191 handler:start | TCXS Project |  Warhammer 40000 Space Marine -->
 <button id="3191" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Warhammer 40000 Space Marine';" autofocus>
-<img src="imagens/ps3/warhammer.png"></button>
+<img src="imagens/ps3/warhammer.jpg"></button>
 <div id="janela_ Warhammer 40000 Space Marine" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/warhammer.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/warhammer.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Warhammer 40000 Space Marine<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -4056,10 +4063,10 @@ Plataforma: PlayStation3</p></div>
 
 <!-- id:3192 handler:start | TCXS Project |  Watch Dogs  -->
 <button id="3192" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Watch Dogs ';" autofocus>
-<img src="imagens/ps3/watchdogs.png"></button>
+<img src="imagens/ps3/watchdogs.jpg"></button>
 <div id="janela_ Watch Dogs " class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="imagens/ps3/watchdogs.png"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="imagens/ps3/watchdogs.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Watch Dogs <br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -4112,14 +4119,11 @@ Plataforma: PlayStation3</p></div>
 
 
 
-<!-- SIC 002 | script de bloqueio para que não rode em outra plataforma que não seja o cosole PlayStation3 
+<!--  script de bloqueio para que não rode em outra plataforma que não seja o cosole PlayStation3 
 <script>
 		writeEnvInfo();
 		ps3chk();
-    document.oncontextmenu = document.body.oncontextmenu = function() {return false;}
-</script> 
- <footer class="footer">
-  <div class="texto_rodape"><h1>PLAYSTATION3 STORE | 2020 | HEN | HAN | CFW</h1></div>    
-</footer>
-	</body>
+</script> -->
+</body>
 </html>
+<font color="#91060d"><footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #91060d; border-bottom: 1px solid #91060d"><font color="#91060d" face="Tahoma" size="2"><font color="91060d"><b> TCXS Project PlayStation3 Store  |  2020  |  HAN HEN CFW  |  Nunca compartilhe seu login se sua conta for acessada de outro IP você será banido.</b></font>

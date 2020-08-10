@@ -20,15 +20,22 @@ if(!$_SESSION['nome']) {
       <meta http-equiv="refresh" content="120">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <meta property="og:site_name" content="TCXS Project PlayStation3"/>
+      <meta property="og:title" content="TCXS Project PlayStation3"/>
+      <meta property="og:url" content="https://tcxsproject.com.br/"/>
+      <meta property="og:description" content="Para adquirir sua versão mais atual da TCXS Project Store PKG para o console PlayStation3 clique no botão COMO ADQUIRIR e leia todas as regras, após isto já fazer sua doação. Aceitamos todos os tipos de pagamento como cartão, pagamento online"/>
+      <meta property="og:image" content="imagens/logo.png"/>
+      <link rel="shortcut icon" href="imagens/icon.png" />
       <script src="https://kit.fontawesome.com/a80232805f.js" crossorigin="anonymous"></script>
       <script src="js/script.js"></script>
       <link rel="stylesheet" type="text/css" href="css/style.css" />
-      <title>TCXS Project 2021</title>
+      <title>TCXS Project PlayStation3 Store</title>
     </head>
 <body>
+    <script>document.oncontextmenu = document.body.oncontextmenu = function() {return false;}</script>
   <div class="navigation-bar">
   <div id="navigation-container">
-    <a href='index.html'><img class="logo" src="imagens/logo.png"></a>
+    <a href='index.php'><img class="logo" src="imagens/logo.png"></a>
     <ul>
       <li><a href="psp.php">PlayStation PSP</a></li>
       <li><a href="ps1.php">PlayStation1</a></li>
@@ -9426,10 +9433,7 @@ if(!$_SESSION['nome']) {
 <script>
 		writeEnvInfo();
 		ps3chk();
-    document.oncontextmenu = document.body.oncontextmenu = function() {return false;}
-</script> 
- <footer class="footer">
-  <div class="texto_rodape"><h1>PLAYSTATION3 STORE | 2020 | HEN | HAN | CFW</h1></div>    
-</footer>
-	</body>
+</script> -->
+</body>
 </html>
+<font color="#91060d"><footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #91060d; border-bottom: 1px solid #91060d"><font color="#91060d" face="Tahoma" size="2"><font color="91060d"><b> TCXS Project PlayStation3 Store  |  2020  |  HAN HEN CFW  |  Nunca compartilhe seu login se sua conta for acessada de outro IP você será banido.</b></font>

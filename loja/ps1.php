@@ -20,15 +20,22 @@ if(!$_SESSION['nome']) {
       <meta http-equiv="refresh" content="120">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <meta property="og:site_name" content="TCXS Project PlayStation3"/>
+      <meta property="og:title" content="TCXS Project PlayStation3"/>
+      <meta property="og:url" content="https://tcxsproject.com.br/"/>
+      <meta property="og:description" content="Para adquirir sua versão mais atual da TCXS Project Store PKG para o console PlayStation3 clique no botão COMO ADQUIRIR e leia todas as regras, após isto já fazer sua doação. Aceitamos todos os tipos de pagamento como cartão, pagamento online"/>
+      <meta property="og:image" content="imagens/logo.png"/>
+      <link rel="shortcut icon" href="imagens/icon.png" />
       <script src="https://kit.fontawesome.com/a80232805f.js" crossorigin="anonymous"></script>
       <script src="js/script.js"></script>
       <link rel="stylesheet" type="text/css" href="css/style.css" />
-      <title>TCXS Project 2021</title>
+      <title>TCXS Project PlayStation3 Store</title>
     </head>
 <body>
+  <script>document.oncontextmenu = document.body.oncontextmenu = function() {return false;}</script>
   <div class="navigation-bar">
   <div id="navigation-container">
-    <a href='index.html'><img class="logo" src="imagens/logo.png"></a>
+    <a href='index.php'><img class="logo" src="imagens/logo.png"></a>
     <ul>
       <li><a href="psp.php">PlayStation PSP</a></li>
       <li><a href="ps1.php">PlayStation1</a></li>
@@ -90,10 +97,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1004 handler:start | TCXS Project PS1 | Disney) -->
 <button id="btn1004" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Disney';" 
 autofocus>
-<img src="imagens/ps1/aladdin.png"></button>
+<img src="imagens/ps1/aladdin.jpg"></button>
 <div id="janela_Disney" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/aladdin.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/aladdin.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Disney Aladin<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -120,10 +127,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1006 handler:start | TCXS Project PS1 | Alone) -->
 <button id="btn1006" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Alone';" 
 autofocus>
-<img src="imagens/ps1/alone.png"></button>
+<img src="imagens/ps1/alone.jpg"></button>
 <div id="janela_Alone" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/alone.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/alone.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Alone in the Dark<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -152,10 +159,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1008 handler:start | TCXS Project PS1 | Amerzone) -->
 <button id="btn1008" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Amerzone';" 
 autofocus>
-<img src="imagens/ps1/amerzone.png"></button>
+<img src="imagens/ps1/amerzone.jpg"></button>
 <div id="janela_Amerzone" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/amerzone.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/amerzone.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Amerzone<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -197,10 +204,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1011 handler:start | TCXS Project PS1 | Asterix) -->
 <button id="btn1011" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Asterix';" 
 autofocus>
-<img src="imagens/ps1/asterix.png"></button>
+<img src="imagens/ps1/asterix.jpg"></button>
 <div id="janela_Asterix" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/asterix.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/asterix.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Asterix<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -227,10 +234,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1013 handler:start | TCXS Project PS1 | Disneys) -->
 <button id="btn1013" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Disneys';" 
 autofocus>
-<img src="imagens/ps1/atlantis.png"></button>
+<img src="imagens/ps1/atlantis.jpg"></button>
 <div id="janela_Disneys" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/atlantis.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/atlantis.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Disneys Atlantis<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -302,10 +309,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1018 handler:start | TCXS Project PS1 | Beyblade) -->
 <button id="btn1018" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Beyblade';" 
 autofocus>
-<img src="imagens/ps1/beyblade.png"></button>
+<img src="imagens/ps1/beyblade.jpg"></button>
 <div id="janela_Beyblade" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/beyblade.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/beyblade.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Beyblade<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -347,10 +354,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1021 handler:start | TCXS Project PS1 | Hoshigami) -->
 <button id="btn1021" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Hoshigami';" 
 autofocus>
-<img src="imagens/ps1/blueearth.png"></button>
+<img src="imagens/ps1/blueearth.jpg"></button>
 <div id="janela_Hoshigami" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/blueearth.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/blueearth.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Hoshigami Blue Earth<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -407,10 +414,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1025 handler:start | TCXS Project PS1 | Breath) -->
 <button id="btn1025" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Breath';" 
 autofocus>
-<img src="imagens/ps1/breath3.png"></button>
+<img src="imagens/ps1/breath3.jpg"></button>
 <div id="janela_Breath" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/breath3.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/breath3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Breath of fire 3<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -437,10 +444,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1027 handler:start | TCXS Project PS1 | A) -->
 <button id="btn1027" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_A';" 
 autofocus>
-<img src="imagens/ps1/bugslife.png"></button>
+<img src="imagens/ps1/bugslife.jpg"></button>
 <div id="janela_A" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/bugslife.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/bugslife.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: A Bugs Life<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -452,10 +459,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1028 handler:start | TCXS Project PS1 | Bugs) -->
 <button id="btn1028" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Bugs';" 
 autofocus>
-<img src="imagens/ps1/bugstime.png"></button>
+<img src="imagens/ps1/bugstime.jpg"></button>
 <div id="janela_Bugs" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/bugstime.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/bugstime.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Bugs Time<br>
 Idioma: Ingles<br>
 Legenda: pt-br<br>
@@ -557,10 +564,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1035 handler:start | TCXS Project PS1 | Contra) -->
 <button id="btn1035" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Contra';" 
 autofocus>
-<img src="imagens/ps1/contrawar.png"></button>
+<img src="imagens/ps1/contrawar.jpg"></button>
 <div id="janela_Contra" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/contrawar.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/contrawar.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Contra Legacy War<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -572,10 +579,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1036 handler:start | TCXS Project PS1 | Courier) -->
 <button id="btn1036" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Courier';" 
 autofocus>
-<img src="imagens/ps1/courier.png"></button>
+<img src="imagens/ps1/courier.jpg"></button>
 <div id="janela_Courier" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/courier.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/courier.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Courier Crisis<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -752,10 +759,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1048 handler:start | TCXS Project PS1 | Dracula) -->
 <button id="btn1048" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Dracula';" 
 autofocus>
-<img src="imagens/ps1/dracular.png"></button>
+<img src="imagens/ps1/dracular.jpg"></button>
 <div id="janela_Dracula" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/dracular.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/dracular.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Dracula<br>
 Idioma: Ingles<br>
 Legenda: PT-BR<br>
@@ -812,10 +819,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1052 handler:start | TCXS Project PS1 | Echo) -->
 <button id="btn1052" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Echo';" 
 autofocus>
-<img src="imagens/ps1/echo.png"></button>
+<img src="imagens/ps1/echo.jpg"></button>
 <div id="janela_Echo" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/echo.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/echo.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Echo Night<br>
 Idioma: Ingles<br>
 Legenda: pt-br<br>
@@ -842,10 +849,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1054 handler:start | TCXS Project PS1 | Gold) -->
 <button id="btn1054" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Gold';" 
 autofocus>
-<img src="imagens/ps1/eldorado.png"></button>
+<img src="imagens/ps1/eldorado.jpg"></button>
 <div id="janela_Gold" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/eldorado.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/eldorado.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Gold and glory<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -872,10 +879,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1056 handler:start | TCXS Project PS1 | Final) -->
 <button id="btn1056" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Final';" 
 autofocus>
-<img src="imagens/ps1/fantasy8.png"></button>
+<img src="imagens/ps1/fantasy8.jpg"></button>
 <div id="janela_Final" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/fantasy8.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/fantasy8.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Final Fantasy8<br>
 Idioma: Ingles<br>
 Legenda: ptbr<br>
@@ -887,10 +894,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1057 handler:start | TCXS Project PS1 | Final) -->
 <button id="btn1057" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Final';" 
 autofocus>
-<img src="imagens/ps1/fantasy9.png"></button>
+<img src="imagens/ps1/fantasy9.jpg"></button>
 <div id="janela_Final" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/fantasy9.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/fantasy9.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Final Fantasy9<br>
 Idioma: Ingles<br>
 Legenda: pt-br<br>
@@ -1007,10 +1014,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1065 handler:start | TCXS Project PS1 | Gunfighter) -->
 <button id="btn1065" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Gunfighter';" 
 autofocus>
-<img src="imagens/ps1/gunfighter.png"></button>
+<img src="imagens/ps1/gunfighter.jpg"></button>
 <div id="janela_Gunfighter" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/gunfighter.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/gunfighter.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Gunfighter<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1022,10 +1029,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1066 handler:start | TCXS Project PS1 | Harry) -->
 <button id="btn1066" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Harry';" 
 autofocus>
-<img src="imagens/ps1/harrycs.png"></button>
+<img src="imagens/ps1/harrycs.jpg"></button>
 <div id="janela_Harry" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/harrycs.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/harrycs.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Harry<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -1037,10 +1044,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1067 handler:start | TCXS Project PS1 | Harry) -->
 <button id="btn1067" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Harry';" 
 autofocus>
-<img src="imagens/ps1/harrypf.png"></button>
+<img src="imagens/ps1/harrypf.jpg"></button>
 <div id="janela_Harry" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/harrypf.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/harrypf.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Harry Potter Camara Secreta<br>
 Idioma: Ingles<br>
 Legenda: pt-br<br>
@@ -1082,10 +1089,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1070 handler:start | TCXS Project PS1 | Hugo) -->
 <button id="btn1070" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Hugo';" 
 autofocus>
-<img src="imagens/ps1/hugo.png"></button>
+<img src="imagens/ps1/hugo.jpg"></button>
 <div id="janela_Hugo" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/hugo.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/hugo.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Hugo<br>
 Idioma: Ingles<br>
 Legenda: pt-br<br>
@@ -1262,10 +1269,10 @@ Plataforma: PlayStation1</p>
 <!-- id:1082 handler:start | TCXS Project PS1 | Medal) -->
 <button id="btn1082" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_Medal';" 
 autofocus>
-<img src="imagens/ps1/medal.png"></button>
+<img src="imagens/ps1/medal.jpg"></button>
 <div id="janela_Medal" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequena"><img src="imagens/ps1/medal.png"  width="170" height="170"/></div>
+<div class="imagem_pequena"><img src="imagens/ps1/medal.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo: Medal of Honor<br>
 Idioma: Ingles<br>
 Legenda: pt-br<br>
@@ -2285,10 +2292,7 @@ Plataforma: PlayStation1</p>
 <script>
 		writeEnvInfo();
 		ps3chk();
-    document.oncontextmenu = document.body.oncontextmenu = function() {return false;}
-</script> 
- <footer class="footer">
-  <div class="texto_rodape"><h1>PLAYSTATION3 STORE | 2020 | HEN | HAN | CFW</h1></div>    
-</footer>
-	</body>
+</script> -->
+</body>
 </html>
+<font color="#91060d"><footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #91060d; border-bottom: 1px solid #91060d"><font color="#91060d" face="Tahoma" size="2"><font color="91060d"><b> TCXS Project PlayStation3 Store  |  2020  |  HAN HEN CFW  |  Nunca compartilhe seu login se sua conta for acessada de outro IP você será banido.</b></font>
