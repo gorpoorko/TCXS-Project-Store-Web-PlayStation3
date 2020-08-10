@@ -4,9 +4,9 @@
 [![Build](https://img.shields.io/badge/windows-7%208%2010-blue.svg)]()
 [![Build](https://img.shields.io/badge/Linux-Ubuntu%20Debian-orange.svg)]()
 [![Build](https://img.shields.io/badge/arquiterura-64bits-blue.svg)]()
-<h2 align="center">TCXS Project Store PlayStation3</h2>
+<h2 align="center">TCXS Project Store | PlayStation3 | HAN | HEN | CFW</h2>
 <img src="https://i.imgur.com/3Gmp3Ze.jpg" width="100%"></img><br>
-<table>
+
 - Toda e qualquer alteraçao deve ser informada no changelog, favor informar sempre no documento que estiver editando que id parou de usar para quem for atualizar a proxima vez saiba de que id começar, se possivel informe neste documento a id que parou para melhor visualização, mantenha um backup desde mesmo material no dropbox, versionando sempre sua versão passada.<br>
 - Fixes, patches e outros arquivos como o apk devem ficar em um branch separado neste git, manter apenas a versão MASTER intacta pronta para upload<br>
 - Os dados de banco de dados desta versão são da minha maquina local, para hospedar é necessário trocar usuario, senha e nome do banco de dados nas configurações PHP<br>
@@ -16,12 +16,11 @@
 - O gerenciamento de usuarios pode ser feito via navegador ou via APK Android<br>
 - Sistema de banimento automático ainda será desenvolvido, creio eu que vou gostar sentar de manha dar uma cagada, pegar o meu café, minha maconha e dando uma cagada sentar o ban em alguns users... @GorpoOrko<br>
 - Todas e qualquer informaçoes adicionais devem ser inseridas neste documento e versionada neste git.<br>
-- 09 de Agosto de 2020 <br></table>
+- 09 de Agosto de 2020 <br>
 
 
 <h1> Changelog:</h1><br>
 <b>Sistema de proteção:</b><br>
-<code>
 - sistema com login e senha para usuários armazenando sua data de entrada<br>
 - sistema que permite o download dos jogos somente via console PLAYSTATION3<br>
 - controle de acesso dos usuários que cria uma tabela para cada usuário e armazena seu ip e data de ACESSOS<br>
@@ -33,19 +32,19 @@
 - caso links tentem ser acessados sem estar logado o usuario é levado para uma pagina de aviso<br>
 - somente usuarios logados conseguem acessar os links da loja<br>
 - somente pode ser feito download via console PLAYSTATION3, safa exceção do plugin gorpo.js desabilitado<br>
-- sistema de banimento automatico apos 30 dias incluso no codigo<br></code>
+- sistema de banimento automatico apos 30 dias incluso no codigo<br>
 <br>
 <b>Parte para usuários:</b><br>
-- pagina de login com login e senha que cria uma tabela para cada usuario armazenando a data de acesso e IP
-- pagina home informando o nome do usuário, IP e aparelho conectado
-- pagina home recebe o usuário mostrando menu do topo e em forma de banner
-- pagina de PlayStation PSP alimentada usando até id:34
-- pagina de PlayStation1 alimentada usando até id:1149
-- pagina de PlayStation2 alimentada usando até id:2147
-- pagina de PlayStation3 alimentada usando até id:3192
-- pagina de PlayStation Emuladores alimentada usando até id:emu7
-- pagina de PlayStation PSN Stuff alimentada usando até id:stuff_650
-<p>OBS: As id's seguem uma ordem lógica, elas devem ser inseridas sempre em ordem crescente 0,1,2,3.....23,2,25...., estas ids fazem ligação com o arquivo gorpo.js o qual habilita e desabilita os botões de download não permitindo download em outra plataforma que não seja o console PlayStation3.</p>
+- pagina de login com login e senha que cria uma tabela para cada usuario armazenando a data de acesso e IP<br>
+- pagina home informando o nome do usuário, IP e aparelho conectado<br>
+- pagina home recebe o usuário mostrando menu do topo e em forma de banner<br>
+- pagina de PlayStation PSP alimentada usando até id:34<br>
+- pagina de PlayStation1 alimentada usando até id:1149<br>
+- pagina de PlayStation2 alimentada usando até id:2147<br>
+- pagina de PlayStation3 alimentada usando até id:3192<br>
+- pagina de PlayStation Emuladores alimentada usando até id:emu7<br>
+- pagina de PlayStation PSN Stuff alimentada usando até id:stuff_650<br>
+<p>OBS: As id's seguem uma ordem lógica, elas devem ser inseridas sempre em ordem crescente 0,1,2,3.....23,2,25...., estas ids fazem ligação com o arquivo gorpo.js o qual habilita e desabilita os botões de download não permitindo download em outra plataforma que não seja o console PlayStation3.</p><br>
 <br>
 <b>Parte para administradors:</b><br>
 - pagina de cadastro de usuarios<br>
@@ -61,7 +60,6 @@
 	<code>
 		writeEnvInfo();
 		ps3chk();
-    document.oncontextmenu = document.body.oncontextmenu = function() {return false;}
 </code><br>
 
 <h1> Demonstração:</h1><br>
