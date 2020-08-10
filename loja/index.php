@@ -72,23 +72,23 @@ document.write(' | Sistema: '+ OSNome);
 
 <div class="menus_home">
   
-  <button id="home1" class="colunas_home"  type="button" onclick="window.location.href='psp.html';" autofocus>
+  <button id="home1" class="colunas_home"  type="button" onclick="window.location.href='psp.php';" autofocus>
   <img src="imagens/menus/psp.jpg"></button>
 
 
-  <button id="home2" class="colunas_home"  type="button" onclick="window.location.href='ps1.html';" autofocus>
+  <button id="home2" class="colunas_home"  type="button" onclick="window.location.href='ps1.php';" autofocus>
   <img src="imagens/menus/ps1.jpg"></button>
 
-  <button id="home3" class="colunas_home"  type="button" onclick="window.location.href='ps2.html';" autofocus>
+  <button id="home3" class="colunas_home"  type="button" onclick="window.location.href='ps2.php';" autofocus>
   <img src="imagens/menus/ps2.jpg"></button>
 
-  <button id="home4" class="colunas_home"  type="button" onclick="window.location.href='ps3.html';" autofocus>
+  <button id="home4" class="colunas_home"  type="button" onclick="window.location.href='ps3.php';" autofocus>
   <img src="imagens/menus/ps3.jpg"></button>
 
-  <button id="home5" class="colunas_home"  type="button" onclick="window.location.href='emuladores.html';" autofocus>
+  <button id="home5" class="colunas_home"  type="button" onclick="window.location.href='emuladores.php';" autofocus>
   <img src="imagens/menus/emuladores.jpg"></button>
 
-  <button id="home6" class="colunas_home"  type="button" onclick="window.location.href='stuff.html';" autofocus>
+  <button id="home6" class="colunas_home"  type="button" onclick="window.location.href='stuff.php';" autofocus>
   <img src="imagens/menus/psn_stuff.jpg"></button>
 
 <div>
