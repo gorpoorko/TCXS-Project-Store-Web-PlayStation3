@@ -53,6 +53,8 @@
 - aplicativo android para banimento dos usuários<br>
 - acesso ao sistema de cadastro via link: <a href="https://tcxsproject.com.br/store/cadastro.php?act=tcxs">https://tcxsproject.com.br/store/cadastro.php?act=tcxs</a><br>
 - acesso so sistema de consulta via link: <a href="https://tcxsproject.com.br/store/consulta.php?act=tcxs">https://tcxsproject.com.br/store/consulta.php?act=tcxs</a> <br>
+- Tutorial para visualização/programação da loja em localhost: <a href="https://youtu.be/o3KJM1d4eHQ">Tutorial Hospedagem Local XAMPP</a> <br>
+- Tutorial para colocar a loja no servidor: <a href="https://youtu.be/gTF19YUih2E">Demonstração de como hospedar Externamente | Deploy</a> <br>
 <p>OBS: Este sistema via link é protegido pelo token "?act=tcxs", se alguem tentar acessar diretamente o aruqivo cadastro.php não irá funcionar, este token não pode vazar. O aplicativo de celular ja tem o token inserido em sua programação. </p><br>
 <br>
 <h1> Codigos Utéis da programação:</h1><br>
