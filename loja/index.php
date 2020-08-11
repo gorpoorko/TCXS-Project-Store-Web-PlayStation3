@@ -8,6 +8,14 @@
 
 <?php
 session_start();
+include('../conexao.php');
+$usuario_logado = $_SESSION['nome'];
+$sql= "SELECT (data_cadastro) from usuarios where usuario = '$usuario_logado'"; //pega o usuario no banco de dados
+$sqldata = mysqli_query($conexao, $sql); //conexao com a query
+$rowdata = mysqli_fetch_array($sqldata); //array da variavel
+$datacadastrada = $rowdata['data_cadastro']; //seleciona a data do usuario
+$datacadastro = strtotime($datacadastrada. '+33 days'); //converte a data de cadastro e seta quantos dias usuário pode ficar
+
 if(!$_SESSION['nome']) {
   header('Location: ../nao_logado.php');
   exit();
@@ -52,7 +60,7 @@ if(!$_SESSION['nome']) {
 <!-- mensagem de boas vindas mostrando ip e sistema operacional -->
 <center>
 <div style="color: #AD0000; background-color: #000000;width: 1200px;  border: none; margin-left: 17px;">
-Olá <?php echo $_SESSION['nome'];?> bem vindo a nova TCXS Store | IP: <?php echo $_SERVER['REMOTE_ADDR'];?>
+Olá <?php echo $_SESSION['nome'];?> bem vindo a nova TCXS Store | IP: <?php echo $_SERVER['REMOTE_ADDR'];?>| Prazo: <?php echo $time = date("d/m/Y",$datacadastro) ;?>
 <script type="text/javascript">
 var OSNome = "";
 if (window.navigator.userAgent.indexOf("Windows NT 10.0")!= -1) OSNome="Windows 10";
@@ -93,27 +101,10 @@ document.write(' | Sistema: '+ OSNome);
 
 <div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- SIC 002 | script de bloqueio para que não rode em outra plataforma que não seja o cosole PlayStation3 
+<!-- script de bloqueio para que não rode em outra plataforma que não seja o cosole PlayStation3 
 <script>
-		writeEnvInfo();
-		ps3chk();
+    writeEnvInfo();
+    ps3chk();
 </script> -->
 </body>
 </html>
