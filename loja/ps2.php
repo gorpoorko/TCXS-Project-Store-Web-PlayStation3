@@ -50,10 +50,10 @@ if(!$_SESSION['nome']) {
 
 
 <!-- id:2001 handler:start | TCXS Project PS2 |  89 Arcade Classics ) -->
-<button id="btn2001" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ 89 Arcade Classics ';" 
+<button id="btn2001" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ 89 Arcade Classics';" 
 autofocus>
 <img src="imagens/ps2/89arcade.jpg"></button>
-<div id="janela_ 89 Arcade Classics " class="janelaDownload">
+<div id="janela_ 89 Arcade Classics" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/89arcade.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  89 Arcade Classics <br>
@@ -125,10 +125,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2006 handler:start | TCXS Project PS2 |  Armored Core 2 Another Age ) -->
-<button id="btn2006" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Armored Core 2 Another Age ';" 
+<button id="btn2006" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Armored Core 2 Another Age';" 
 autofocus>
 <img src="imagens/ps2/armoredcore2.jpg"></button>
-<div id="janela_ Armored Core 2 Another Age " class="janelaDownload">
+<div id="janela_ Armored Core 2 Another Age" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/armoredcore2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Armored Core 2 Another Age <br>
@@ -155,10 +155,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2008 handler:start | TCXS Project PS2 |  Bad Boys 2 ) -->
-<button id="btn2008" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Bad Boys 2 ';" 
+<button id="btn2008" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Bad Boys 2';" 
 autofocus>
 <img src="imagens/ps2/badboys2.jpg"></button>
-<div id="janela_ Bad Boys 2 " class="janelaDownload">
+<div id="janela_ Bad Boys 2" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/badboys2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Bad Boys 2 <br>
@@ -200,10 +200,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2011 handler:start | TCXS Project PS2 |  Bleach Erabareshi Tamashi ) -->
-<button id="btn2011" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Bleach Erabareshi Tamashi ';" 
+<button id="btn2011" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Bleach Erabareshi Tamashi';" 
 autofocus>
 <img src="imagens/ps2/bleachtamashi.jpg"></button>
-<div id="janela_ Bleach Erabareshi Tamashi " class="janelaDownload">
+<div id="janela_ Bleach Erabareshi Tamashi" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/bleachtamashi.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Bleach Erabareshi Tamashi <br>
@@ -335,10 +335,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2020 handler:start | TCXS Project PS2 |  Crash Tag Team Racing ) -->
-<button id="btn2020" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Crash Tag Team Racing ';" 
+<button id="btn2020" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Crash Tag Team Racing';" 
 autofocus>
 <img src="imagens/ps2/crashracing.jpg"></button>
-<div id="janela_ Crash Tag Team Racing " class="janelaDownload">
+<div id="janela_ Crash Tag Team Racing" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/crashracing.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Crash Tag Team Racing <br>
@@ -350,10 +350,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2021 handler:start | TCXS Project PS2 |  Dark Watch ) -->
-<button id="btn2021" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dark Watch ';" 
+<button id="btn2021" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dark Watch';" 
 autofocus>
 <img src="imagens/ps2/darkwatch.jpg"></button>
-<div id="janela_ Dark Watch " class="janelaDownload">
+<div id="janela_ Dark Watch" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/darkwatch.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Dark Watch <br>
@@ -380,10 +380,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2023 handler:start | TCXS Project PS2 |  Devil Kings ) -->
-<button id="btn2023" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Devil Kings ';" 
+<button id="btn2023" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Devil Kings';" 
 autofocus>
 <img src="imagens/ps2/devilkings.jpg"></button>
-<div id="janela_ Devil Kings " class="janelaDownload">
+<div id="janela_ Devil Kings" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/devilkings.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Devil Kings <br>
@@ -410,10 +410,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2025 handler:start | TCXS Project PS2 |  Digimon World ) -->
-<button id="btn2025" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Digimon World ';" 
+<button id="btn2025" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Digimon World';" 
 autofocus>
 <img src="imagens/ps2/digimonworld.jpg"></button>
-<div id="janela_ Digimon World " class="janelaDownload">
+<div id="janela_ Digimon World" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/digimonworld.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Digimon World <br>
@@ -425,10 +425,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2026 handler:start | TCXS Project PS2 |  Dowhill Domination ) -->
-<button id="btn2026" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dowhill Domination ';" 
+<button id="btn2026" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dowhill Domination';" 
 autofocus>
 <img src="imagens/ps2/dowhilldm.jpg"></button>
-<div id="janela_ Dowhill Domination " class="janelaDownload">
+<div id="janela_ Dowhill Domination" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/dowhilldm.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Dowhill Domination <br>
@@ -470,10 +470,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2029 handler:start | TCXS Project PS2 |  Dragon BallZ Budokai Af ) -->
-<button id="btn2029" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dragon BallZ Budokai Af ';" 
+<button id="btn2029" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dragon BallZ Budokai Af';" 
 autofocus>
 <img src="imagens/ps2/dbzbudokaiaf.jpg"></button>
-<div id="janela_ Dragon BallZ Budokai Af " class="janelaDownload">
+<div id="janela_ Dragon BallZ Budokai Af" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/dbzbudokaiaf.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Dragon BallZ Budokai Af <br>
@@ -485,10 +485,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2030 handler:start | TCXS Project PS2 |  Dragon BallZ Tenkaichi 2 ) -->
-<button id="btn2030" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dragon BallZ Tenkaichi 2 ';" 
+<button id="btn2030" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Dragon BallZ Tenkaichi 2';" 
 autofocus>
 <img src="imagens/ps2/dbztenkaichi2.jpg"></button>
-<div id="janela_ Dragon BallZ Tenkaichi 2 " class="janelaDownload">
+<div id="janela_ Dragon BallZ Tenkaichi 2" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/dbztenkaichi2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Dragon BallZ Tenkaichi 2 <br>
@@ -500,10 +500,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2031 handler:start | TCXS Project PS2 |  Driver Parallel Lines ) -->
-<button id="btn2031" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Driver Parallel Lines ';" 
+<button id="btn2031" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Driver Parallel Lines';" 
 autofocus>
 <img src="imagens/ps2/driverpl.jpg"></button>
-<div id="janela_ Driver Parallel Lines " class="janelaDownload">
+<div id="janela_ Driver Parallel Lines" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/driverpl.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Driver Parallel Lines <br>
@@ -605,10 +605,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2038 handler:start | TCXS Project PS2 |  Final Fantasy XII ) -->
-<button id="btn2038" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Final Fantasy XII ';" 
+<button id="btn2038" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Final Fantasy XII';" 
 autofocus>
 <img src="imagens/ps2/ffxii.jpg"></button>
-<div id="janela_ Final Fantasy XII " class="janelaDownload">
+<div id="janela_ Final Fantasy XII" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/ffxii.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Final Fantasy XII <br>
@@ -650,10 +650,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2041 handler:start | TCXS Project PS2 |  Genji ) -->
-<button id="btn2041" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Genji ';" 
+<button id="btn2041" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Genji';" 
 autofocus>
 <img src="imagens/ps2/genji.jpg"></button>
-<div id="janela_ Genji " class="janelaDownload">
+<div id="janela_ Genji" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/genji.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Genji <br>
@@ -770,10 +770,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2049 handler:start | TCXS Project PS2 |  Guitar God 2.0 ) -->
-<button id="btn2049" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Guitar God 2.0 ';" 
+<button id="btn2049" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Guitar God 2.0';" 
 autofocus>
 <img src="imagens/ps2/guitargod2.jpg"></button>
-<div id="janela_ Guitar God 2.0 " class="janelaDownload">
+<div id="janela_ Guitar God 2.0" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/guitargod2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Guitar God 2.0 <br>
@@ -785,10 +785,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2050 handler:start | TCXS Project PS2 |  Guitar God 3.0 ) -->
-<button id="btn2050" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Guitar God 3.0 ';" 
+<button id="btn2050" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Guitar God 3.0';" 
 autofocus>
 <img src="imagens/ps2/guitargod3.jpg"></button>
-<div id="janela_ Guitar God 3.0 " class="janelaDownload">
+<div id="janela_ Guitar God 3.0" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/guitargod3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Guitar God 3.0 <br>
@@ -815,10 +815,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2052 handler:start | TCXS Project PS2 |  Harry Potter ) -->
-<button id="btn2052" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Harry Potter ';" 
+<button id="btn2052" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Harry Potter';" 
 autofocus>
 <img src="imagens/ps2/harrypss.jpg"></button>
-<div id="janela_ Harry Potter " class="janelaDownload">
+<div id="janela_ Harry Potter" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/harrypss.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Harry Potter <br>
@@ -830,10 +830,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2053 handler:start | TCXS Project PS2 |  Harry Potter Copa Mundial de Quadribol  ) -->
-<button id="btn2053" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Harry Potter Copa Mundial de Quadribol  ';" 
+<button id="btn2053" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Harry Potter Copa Mundial de Quadribol ';" 
 autofocus>
 <img src="imagens/ps2/harryquadribol.jpg"></button>
-<div id="janela_ Harry Potter Copa Mundial de Quadribol  " class="janelaDownload">
+<div id="janela_ Harry Potter Copa Mundial de Quadribol " class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/harryquadribol.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Harry Potter Copa Mundial de Quadribol  <br>
@@ -875,10 +875,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2056 handler:start | TCXS Project PS2 |  Haunting Ground ) -->
-<button id="btn2056" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Haunting Ground ';" 
+<button id="btn2056" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Haunting Ground';" 
 autofocus>
 <img src="imagens/ps2/hauntingground.jpg"></button>
-<div id="janela_ Haunting Ground " class="janelaDownload">
+<div id="janela_ Haunting Ground" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/hauntingground.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Haunting Ground <br>
@@ -890,10 +890,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2057 handler:start | TCXS Project PS2 |  Herdy Gerdy ) -->
-<button id="btn2057" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Herdy Gerdy ';" 
+<button id="btn2057" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Herdy Gerdy';" 
 autofocus>
 <img src="imagens/ps2/herdygerdy.jpg"></button>
-<div id="janela_ Herdy Gerdy " class="janelaDownload">
+<div id="janela_ Herdy Gerdy" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/herdygerdy.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Herdy Gerdy <br>
@@ -920,10 +920,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2059 handler:start | TCXS Project PS2 |  Jackie Chan Adventure ) -->
-<button id="btn2059" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Jackie Chan Adventure ';" 
+<button id="btn2059" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Jackie Chan Adventure';" 
 autofocus>
 <img src="imagens/ps2/jackiechanadv.jpg"></button>
-<div id="janela_ Jackie Chan Adventure " class="janelaDownload">
+<div id="janela_ Jackie Chan Adventure" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/jackiechanadv.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Jackie Chan Adventure <br>
@@ -935,10 +935,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2060 handler:start | TCXS Project PS2 |  Jak 2 ) -->
-<button id="btn2060" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Jak 2 ';" 
+<button id="btn2060" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Jak 2';" 
 autofocus>
 <img src="imagens/ps2/jak2.jpg"></button>
-<div id="janela_ Jak 2 " class="janelaDownload">
+<div id="janela_ Jak 2" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/jak2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Jak 2 <br>
@@ -950,10 +950,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2061 handler:start | TCXS Project PS2 |  Jak X ) -->
-<button id="btn2061" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Jak X ';" 
+<button id="btn2061" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Jak X';" 
 autofocus>
 <img src="imagens/ps2/jakxcbracing.jpg"></button>
-<div id="janela_ Jak X " class="janelaDownload">
+<div id="janela_ Jak X" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/jakxcbracing.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Jak X <br>
@@ -995,10 +995,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2064 handler:start | TCXS Project PS2 |  Kingdom Hearts ) -->
-<button id="btn2064" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Kingdom Hearts ';" 
+<button id="btn2064" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Kingdom Hearts';" 
 autofocus>
 <img src="imagens/ps2/kinghearts.jpg"></button>
-<div id="janela_ Kingdom Hearts " class="janelaDownload">
+<div id="janela_ Kingdom Hearts" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/kinghearts.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Kingdom Hearts <br>
@@ -1040,10 +1040,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2067 handler:start | TCXS Project PS2 |  Knight Rider ) -->
-<button id="btn2067" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Knight Rider ';" 
+<button id="btn2067" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Knight Rider';" 
 autofocus>
 <img src="imagens/ps2/knightrider.jpg"></button>
-<div id="janela_ Knight Rider " class="janelaDownload">
+<div id="janela_ Knight Rider" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/knightrider.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Knight Rider <br>
@@ -1055,10 +1055,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2068 handler:start | TCXS Project PS2 |  Knight Rider 2 ) -->
-<button id="btn2068" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Knight Rider 2 ';" 
+<button id="btn2068" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Knight Rider 2';" 
 autofocus>
 <img src="imagens/ps2/knightrider2.jpg"></button>
-<div id="janela_ Knight Rider 2 " class="janelaDownload">
+<div id="janela_ Knight Rider 2" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/knightrider2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Knight Rider 2 <br>
@@ -1085,10 +1085,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2070 handler:start | TCXS Project PS2 |  Legaia 2 )  -->
-<button id="btn2070" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Legaia 2 ';" 
+<button id="btn2070" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Legaia 2';" 
 autofocus>
 <img src="imagens/ps2/legaia2.jpg"></button>
-<div id="janela_ Legaia 2 " class="janelaDownload">
+<div id="janela_ Legaia 2" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/legaia2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Legaia 2 <br>
@@ -1115,10 +1115,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2072 handler:start | TCXS Project PS2 |  Lord Of The Ring The Fellowship Of The Ring ) -->
-<button id="btn2072" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Lord Of The Ring The Fellowship Of The Ring ';" 
+<button id="btn2072" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Lord Of The Ring The Fellowship Of The Ring';" 
 autofocus>
 <img src="imagens/ps2/lordofring.jpg"></button>
-<div id="janela_ Lord Of The Ring The Fellowship Of The Ring " class="janelaDownload">
+<div id="janela_ Lord Of The Ring The Fellowship Of The Ring" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/lordofring.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Lord Of The Ring The Fellowship Of The Ring <br>
@@ -1175,10 +1175,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2076 handler:start | TCXS Project PS2 |  Marvel Nemesis Rise Of The Imperfects ) -->
-<button id="btn2076" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Marvel Nemesis Rise Of The Imperfects ';" 
+<button id="btn2076" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Marvel Nemesis Rise Of The Imperfects';" 
 autofocus>
 <img src="imagens/ps2/marvelnemesis.jpg"></button>
-<div id="janela_ Marvel Nemesis Rise Of The Imperfects " class="janelaDownload">
+<div id="janela_ Marvel Nemesis Rise Of The Imperfects" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/marvelnemesis.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Marvel Nemesis Rise Of The Imperfects <br>
@@ -1250,10 +1250,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2081 handler:start | TCXS Project PS2 |  Medal of Honor ) -->
-<button id="btn2081" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Medal of Honor ';" 
+<button id="btn2081" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Medal of Honor';" 
 autofocus>
 <img src="imagens/ps2/medalhonorassault.jpg"></button>
-<div id="janela_ Medal of Honor " class="janelaDownload">
+<div id="janela_ Medal of Honor" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/medalhonorassault.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Medal of Honor <br>
@@ -1415,10 +1415,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2092 handler:start | TCXS Project PS2 |  Naruto ultimate Ninja 2 ) -->
-<button id="btn2092" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Naruto ultimate Ninja 2 ';" 
+<button id="btn2092" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Naruto ultimate Ninja 2';" 
 autofocus>
 <img src="imagens/ps2/narultninja2.jpg"></button>
-<div id="janela_ Naruto ultimate Ninja 2 " class="janelaDownload">
+<div id="janela_ Naruto ultimate Ninja 2" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/narultninja2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Naruto ultimate Ninja 2 <br>
@@ -1430,10 +1430,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2093 handler:start | TCXS Project PS2 |  Naruto ultimate Ninja 3 ) -->
-<button id="btn2093" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Naruto ultimate Ninja 3 ';" 
+<button id="btn2093" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Naruto ultimate Ninja 3';" 
 autofocus>
 <img src="imagens/ps2/narultninja2.jpg"></button>
-<div id="janela_ Naruto ultimate Ninja 3 " class="janelaDownload">
+<div id="janela_ Naruto ultimate Ninja 3" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/narultninja2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Naruto ultimate Ninja 3 <br>
@@ -1625,10 +1625,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2106 handler:start | TCXS Project PS2 |  Phantom Brave ) -->
-<button id="btn2106" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Phantom Brave ';" 
+<button id="btn2106" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Phantom Brave';" 
 autofocus>
 <img src="imagens/ps2/phantombrave.jpg"></button>
-<div id="janela_ Phantom Brave " class="janelaDownload">
+<div id="janela_ Phantom Brave" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/phantombrave.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Phantom Brave <br>
@@ -1640,10 +1640,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2107 handler:start | TCXS Project PS2 |  PitFall ) -->
-<button id="btn2107" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ PitFall ';" 
+<button id="btn2107" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ PitFall';" 
 autofocus>
 <img src="imagens/ps2/pitfall.jpg"></button>
-<div id="janela_ PitFall " class="janelaDownload">
+<div id="janela_ PitFall" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/pitfall.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  PitFall <br>
@@ -1670,10 +1670,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2109 handler:start | TCXS Project PS2 |  Resident Evil 4 ) -->
-<button id="btn2109" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Resident Evil 4 ';" 
+<button id="btn2109" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Resident Evil 4';" 
 autofocus>
 <img src="imagens/ps2/resevil4.jpg"></button>
-<div id="janela_ Resident Evil 4 " class="janelaDownload">
+<div id="janela_ Resident Evil 4" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/resevil4.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Resident Evil 4 <br>
@@ -1760,10 +1760,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2115 handler:start | TCXS Project PS2 |  Saint Seiya ) -->
-<button id="btn2115" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Saint Seiya ';" 
+<button id="btn2115" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Saint Seiya';" 
 autofocus>
 <img src="imagens/ps2/seiyasanctuary.jpg"></button>
-<div id="janela_ Saint Seiya " class="janelaDownload">
+<div id="janela_ Saint Seiya" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/seiyasanctuary.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Saint Seiya <br>
@@ -1775,10 +1775,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2116 handler:start | TCXS Project PS2 |  Samurai Showdown Anthology ) -->
-<button id="btn2116" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Samurai Showdown Anthology ';" 
+<button id="btn2116" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Samurai Showdown Anthology';" 
 autofocus>
 <img src="imagens/ps2/samuraishowdown.jpg"></button>
-<div id="janela_ Samurai Showdown Anthology " class="janelaDownload">
+<div id="janela_ Samurai Showdown Anthology" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/samuraishowdown.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Samurai Showdown Anthology <br>
@@ -1820,10 +1820,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2119 handler:start | TCXS Project PS2 |  Shrek 2 ) -->
-<button id="btn2119" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Shrek 2 ';" 
+<button id="btn2119" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Shrek 2';" 
 autofocus>
 <img src="imagens/ps2/shrek2.jpg"></button>
-<div id="janela_ Shrek 2 " class="janelaDownload">
+<div id="janela_ Shrek 2" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/shrek2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Shrek 2 <br>
@@ -1835,10 +1835,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2120 handler:start | TCXS Project PS2 |  Shrek Super Slam ) -->
-<button id="btn2120" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Shrek Super Slam ';" 
+<button id="btn2120" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Shrek Super Slam';" 
 autofocus>
 <img src="imagens/ps2/shreksuper.jpg"></button>
-<div id="janela_ Shrek Super Slam " class="janelaDownload">
+<div id="janela_ Shrek Super Slam" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/shreksuper.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Shrek Super Slam <br>
@@ -1850,10 +1850,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2121 handler:start | TCXS Project PS2 |  Shrek The Third ) -->
-<button id="btn2121" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Shrek The Third ';" 
+<button id="btn2121" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Shrek The Third';" 
 autofocus>
 <img src="imagens/ps2/shrek3.jpg"></button>
-<div id="janela_ Shrek The Third " class="janelaDownload">
+<div id="janela_ Shrek The Third" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/shrek3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Shrek The Third <br>
@@ -1895,10 +1895,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2124 handler:start | TCXS Project PS2 |  Silent Hill 4 The Room ) -->
-<button id="btn2124" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Silent Hill 4 The Room ';" 
+<button id="btn2124" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Silent Hill 4 The Room';" 
 autofocus>
 <img src="imagens/ps2/silenthill4.jpg"></button>
-<div id="janela_ Silent Hill 4 The Room " class="janelaDownload">
+<div id="janela_ Silent Hill 4 The Room" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/silenthill4.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Silent Hill 4 The Room <br>
@@ -1925,10 +1925,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2126 handler:start | TCXS Project PS2 |  Siren ) -->
-<button id="btn2126" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Siren ';" 
+<button id="btn2126" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Siren';" 
 autofocus>
 <img src="imagens/ps2/siren.jpg"></button>
-<div id="janela_ Siren " class="janelaDownload">
+<div id="janela_ Siren" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/siren.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Siren <br>
@@ -2015,10 +2015,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2132 handler:start | TCXS Project PS2 |  Syphon Filter The Omega Strain ) -->
-<button id="btn2132" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Syphon Filter The Omega Strain ';" 
+<button id="btn2132" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Syphon Filter The Omega Strain';" 
 autofocus>
 <img src="imagens/ps2/syphonomega.jpg"></button>
-<div id="janela_ Syphon Filter The Omega Strain " class="janelaDownload">
+<div id="janela_ Syphon Filter The Omega Strain" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/syphonomega.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Syphon Filter The Omega Strain <br>
@@ -2030,10 +2030,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2133 handler:start | TCXS Project PS2 |  The King Of Fighters The Orochi Saga ) -->
-<button id="btn2133" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ The King Of Fighters The Orochi Saga ';" 
+<button id="btn2133" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ The King Of Fighters The Orochi Saga';" 
 autofocus>
 <img src="imagens/ps2/koforochi.jpg"></button>
-<div id="janela_ The King Of Fighters The Orochi Saga " class="janelaDownload">
+<div id="janela_ The King Of Fighters The Orochi Saga" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/koforochi.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  The King Of Fighters The Orochi Saga <br>
@@ -2105,10 +2105,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2138 handler:start | TCXS Project PS2 |  Time Spliter ) -->
-<button id="btn2138" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Time Spliter ';" 
+<button id="btn2138" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Time Spliter';" 
 autofocus>
 <img src="imagens/ps2/timespliter.jpg"></button>
-<div id="janela_ Time Spliter " class="janelaDownload">
+<div id="janela_ Time Spliter" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/timespliter.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Time Spliter <br>
@@ -2120,10 +2120,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2139 handler:start | TCXS Project PS2 |  Tony Hawk's Pro Skater 4 ) -->
-<button id="btn2139" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Tony Hawk's Pro Skater 4 ';" 
+<button id="btn2139" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Tony Hawk's Pro Skater 4';" 
 autofocus>
 <img src="imagens/ps2/tonyskater4.jpg"></button>
-<div id="janela_ Tony Hawk's Pro Skater 4 " class="janelaDownload">
+<div id="janela_ Tony Hawk's Pro Skater 4" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/tonyskater4.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Tony Hawk's Pro Skater 4 <br>
@@ -2135,10 +2135,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2140 handler:start | TCXS Project PS2 |  Urban Reigh ) -->
-<button id="btn2140" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Urban Reigh ';" 
+<button id="btn2140" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Urban Reigh';" 
 autofocus>
 <img src="imagens/ps2/urbanreigh.jpg"></button>
-<div id="janela_ Urban Reigh " class="janelaDownload">
+<div id="janela_ Urban Reigh" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/urbanreigh.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Urban Reigh <br>
@@ -2150,10 +2150,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2141 handler:start | TCXS Project PS2 |  Van Helsing ) -->
-<button id="btn2141" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Van Helsing ';" 
+<button id="btn2141" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Van Helsing';" 
 autofocus>
 <img src="imagens/ps2/vanhelsing.jpg"></button>
-<div id="janela_ Van Helsing " class="janelaDownload">
+<div id="janela_ Van Helsing" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/vanhelsing.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Van Helsing <br>
@@ -2180,10 +2180,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2143 handler:start | TCXS Project PS2 |  Winning Eleven 10 ) -->
-<button id="btn2143" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Winning Eleven 10 ';" 
+<button id="btn2143" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Winning Eleven 10';" 
 autofocus>
 <img src="imagens/ps2/winning10.jpg"></button>
-<div id="janela_ Winning Eleven 10 " class="janelaDownload">
+<div id="janela_ Winning Eleven 10" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/winning10.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  Winning Eleven 10 <br>
@@ -2225,10 +2225,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2146 handler:start | TCXS Project PS2 |  jak 3 ) -->
-<button id="btn2146" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ jak 3 ';" 
+<button id="btn2146" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ jak 3';" 
 autofocus>
 <img src="imagens/ps2/jak3.jpg"></button>
-<div id="janela_ jak 3 " class="janelaDownload">
+<div id="janela_ jak 3" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/jak3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  jak 3 <br>
@@ -2240,10 +2240,10 @@ Plataforma: PlayStation2</p>
 
 
 <!-- id:2147 handler:start | TCXS Project PS2 |  jak and Daxter ) -->
-<button id="btn2147" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ jak and Daxter ';" 
+<button id="btn2147" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ jak and Daxter';" 
 autofocus>
 <img src="imagens/ps2/jakdaxter.jpg"></button>
-<div id="janela_ jak and Daxter " class="janelaDownload">
+<div id="janela_ jak and Daxter" class="janelaDownload">
 <div><a href="#" class="botao_fechar">X</a>
 <div class="imagem_pequena"><img src="imagens/ps2/jakdaxter.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogo'>Jogo:  jak and Daxter <br>
