@@ -1,17 +1,15 @@
 <XMBML version="1.0">
     <View id="henbrew_store_xmb_main">
         <Attributes>
-            <Table key="han_main">
+            <Table key="tcxs_project">
                 <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/logo.png</String></Pair>
-                <Pair key="icon_notation"> <String>WNT_XmbItemAlbum</String></Pair>
-                <Pair key="title"><String></String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>TCXS PROJECT</String></Pair>
                 <Pair key="info"><String>HAN | HEN | CFW</String></Pair>
-            	<Pair key="module_name"><String>webrender_plugin</String></Pair>
-            	<Pair key="module_action"><String>http://tcxsproject.com.br/store/index.php</String></Pair>
             </Table>
         </Attributes>
         <Items>
-            <Item class="type:x-xmb/module-action" key="han_main" attr="han_main" />
+            <Query class="type:x-xmb/folder-pixmap" key="tcxs_project" attr="tcxs_project" src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/menus.xml#jogospkg_items"/>
         </Items>
     </View>
 </XMBML>
