@@ -8,14 +8,6 @@
 
 <?php
 session_start();
-include('../conexao.php');
-$usuario_logado = $_SESSION['nome'];
-$sql= "SELECT (data_cadastro) from usuarios where usuario = '$usuario_logado'"; //pega o usuario no banco de dados
-$sqldata = mysqli_query($conexao, $sql); //conexao com a query
-$rowdata = mysqli_fetch_array($sqldata); //array da variavel
-$datacadastrada = $rowdata['data_cadastro']; //seleciona a data do usuario
-$datacadastro = strtotime($datacadastrada. '+33 days'); //converte a data de cadastro e seta quantos dias usuário pode ficar
-
 if(!$_SESSION['nome']) {
   header('Location: ../nao_logado.php');
   exit();
@@ -24,7 +16,7 @@ if(!$_SESSION['nome']) {
 <!DOCTYPE html>
   <html>
     <head>
-      <script src="gorpo.js"></script>
+      <!-- <script src="gorpo.js"></script> -->
       <meta charset="UTF-8">
       <meta http-equiv="refresh" content="120">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,7 +28,7 @@ if(!$_SESSION['nome']) {
       <meta property="og:image" content="imagens/logo.png"/>
       <link rel="shortcut icon" href="imagens/icon.png" />
       <script src="https://kit.fontawesome.com/a80232805f.js" crossorigin="anonymous"></script>
-      <script src="js/script.js"></script>
+      <!-- <script src="js/script.js"></script> -->
       <link rel="stylesheet" type="text/css" href="css/style.css" />
       <title>TCXS Project PlayStation3 Store</title>
     </head>
@@ -48,19 +40,20 @@ if(!$_SESSION['nome']) {
     <a href='index.php'><img class="logo" src="imagens/logo.png"></a>
     <ul>
       <li><a href="psp.php">PlayStation PSP</a></li>
-      <li><a href="ps1.php">PlayStation1</a></li>
-      <li><a href="ps2.php">PlayStation2</a></li>
-      <li><a href="ps3.php">PlayStation3</a></li>
+      <li><a href="ps1/ps1_AL.php">PlayStation1</a></li>
+      <li><a href="ps2/ps2_AL.php">PlayStation2</a></li>
+      <li><a href="ps3/ps3_AE.php">PlayStation3</a></li>
       <li><a href="emuladores.php">Emuladores</a></li>
-      <li><a href="stuff.php">PSN Stuff</a></li>
+      <li><a href="televisao/tv.php">IPTV</a></li>
     </ul> 
   </div> </div>
+  <!-- INICIO DOS  JOGOS PARA DOWNLOAD -->
 
                 
 <!-- mensagem de boas vindas mostrando ip e sistema operacional -->
 <center>
 <div style="color: #AD0000; background-color: #000000;width: 1200px;  border: none; margin-left: 17px;">
-Olá <?php echo $_SESSION['nome'];?> bem vindo a nova TCXS Store | IP: <?php echo $_SERVER['REMOTE_ADDR'];?>| Prazo: <?php echo $time = date("d/m/Y",$datacadastro) ;?>
+Olá <?php echo $_SESSION['nome'];?> bem vindo a nova TCXS Store | IP: <?php echo $_SERVER['REMOTE_ADDR'];?>
 <script type="text/javascript">
 var OSNome = "";
 if (window.navigator.userAgent.indexOf("Windows NT 10.0")!= -1) OSNome="Windows 10";
@@ -80,31 +73,48 @@ document.write(' | Sistema: '+ OSNome);
 
 <div class="menus_home">
   
-  <button id="home1" class="colunas_home"  type="button" onclick="window.location.href='psp.php';" autofocus>
+  <button id="home1" class="colunas_home"  type="button" onclick="window.location.href='psp.html';" autofocus>
   <img src="imagens/menus/psp.jpg"></button>
 
 
-  <button id="home2" class="colunas_home"  type="button" onclick="window.location.href='ps1.php';" autofocus>
+  <button id="home2" class="colunas_home"  type="button" onclick="window.location.href='ps1.html';" autofocus>
   <img src="imagens/menus/ps1.jpg"></button>
 
-  <button id="home3" class="colunas_home"  type="button" onclick="window.location.href='ps2.php';" autofocus>
+  <button id="home3" class="colunas_home"  type="button" onclick="window.location.href='ps2.html';" autofocus>
   <img src="imagens/menus/ps2.jpg"></button>
 
-  <button id="home4" class="colunas_home"  type="button" onclick="window.location.href='ps3.php';" autofocus>
+  <button id="home4" class="colunas_home"  type="button" onclick="window.location.href='ps3.html';" autofocus>
   <img src="imagens/menus/ps3.jpg"></button>
 
-  <button id="home5" class="colunas_home"  type="button" onclick="window.location.href='emuladores.php';" autofocus>
+  <button id="home5" class="colunas_home"  type="button" onclick="window.location.href='emuladores.html';" autofocus>
   <img src="imagens/menus/emuladores.jpg"></button>
 
-  <button id="home6" class="colunas_home"  type="button" onclick="window.location.href='stuff.php';" autofocus>
+  <button id="home6" class="colunas_home"  type="button" onclick="window.location.href='stuff.html';" autofocus>
   <img src="imagens/menus/psn_stuff.jpg"></button>
 
 <div>
 
-<!-- script de bloqueio para que não rode em outra plataforma que não seja o cosole PlayStation3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- SIC 002 | script de bloqueio para que não rode em outra plataforma que não seja o cosole PlayStation3 
 <script>
-    writeEnvInfo();
-    ps3chk();
+		writeEnvInfo();
+		ps3chk();
 </script> -->
 </body>
 </html>

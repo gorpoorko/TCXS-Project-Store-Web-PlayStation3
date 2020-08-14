@@ -72,8 +72,8 @@ session_start();
             </span>
           </div>
 
-          <div class="field" id="homePage">          
-            <button type="submit" class="container-login100-form-btn login100-form-btn m-b-16 ">Entrar</button>
+          <div class="field">          
+            <button type="submit" id="btnhome_" type="button" class="container-login100-form-btn login100-form-btn m-b-16 ">Entrar</button>
           </div>
 
           </form> 
@@ -89,11 +89,11 @@ session_start();
 </div>
 
 
-<!--
+
 <script>
     writeEnvInfo();
     ps3chk();
-</script> -->
+</script> 
   </body>
 </html>
 

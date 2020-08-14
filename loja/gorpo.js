@@ -1129,8 +1129,11 @@ function disable_resetbtn()
 
 function disable_btn()
 {
-	disable_element(document.getElementById('homePage'));
-	disable_element(document.getElementById('btn0'));
+disable_element(document.getElementById('btnhome'));
+disable_element(document.getElementById('free_001'));
+disable_element(document.getElementById('free_002'));
+disable_element(document.getElementById('free_003'));
+disable_element(document.getElementById('btn0'));
 disable_element(document.getElementById('btn1'));
 disable_element(document.getElementById('btn2'));
 disable_element(document.getElementById('btn3'));
@@ -5163,8 +5166,11 @@ disable_element(document.getElementById('emu19'));
 }
 function enable_btn()
 {
-	enable_element(document.getElementById('homePage'));
-	enable_element(document.getElementById('btn0'));
+enable_element(document.getElementById('btnhome'));
+enable_element(document.getElementById('free_001'));
+enable_element(document.getElementById('free_002'));
+enable_element(document.getElementById('free_003'));
+enable_element(document.getElementById('btn0'));
 enable_element(document.getElementById('btn1'));
 enable_element(document.getElementById('btn2'));
 enable_element(document.getElementById('btn3'));

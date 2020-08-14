@@ -15,7 +15,7 @@ if(!$_SESSION['nome']) {
 <!DOCTYPE html>
   <html>
     <head>
-      <script src="gorpo.js"></script>
+      <!-- <script src="gorpo.js"></script> -->
       <meta charset="UTF-8">
       <meta http-equiv="refresh" content="120">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -27,25 +27,26 @@ if(!$_SESSION['nome']) {
       <meta property="og:image" content="imagens/logo.png"/>
       <link rel="shortcut icon" href="imagens/icon.png" />
       <script src="https://kit.fontawesome.com/a80232805f.js" crossorigin="anonymous"></script>
-      <script src="js/script.js"></script>
+      <!-- <script src="js/script.js"></script> -->
       <link rel="stylesheet" type="text/css" href="css/style.css" />
       <title>TCXS Project PlayStation3 Store</title>
     </head>
 <body>
-  <script>document.oncontextmenu = document.body.oncontextmenu = function() {return false;}</script>
+<script>document.oncontextmenu = document.body.oncontextmenu = function() {return false;}</script>
+
   <div class="navigation-bar">
   <div id="navigation-container">
-   <a href='index.php'><img class="logo" src="imagens/logo.png"></a>
+    <a href='index.php'><img class="logo" src="imagens/logo.png"></a>
     <ul>
       <li><a href="psp.php">PlayStation PSP</a></li>
-      <li><a href="ps1.php">PlayStation1</a></li>
-      <li><a href="ps2.php">PlayStation2</a></li>
-      <li><a href="ps3.php">PlayStation3</a></li>
+      <li><a href="ps1/ps1_AL.php">PlayStation1</a></li>
+      <li><a href="ps2/ps2_AL.php">PlayStation2</a></li>
+      <li><a href="ps3/ps3_AE.php">PlayStation3</a></li>
       <li><a href="emuladores.php">Emuladores</a></li>
-      <li><a href="stuff.php">PSN Stuff</a></li>
+      <li><a href="televisao/tv.php">IPTV</a></li>
     </ul> 
   </div> </div>
-<!-- INICIO DOS  JOGOS PARA DOWNLOAD -->
+  <!-- INICIO DOS  JOGOS PARA DOWNLOAD -->
 
 
 <!-- id:1 handler:start | TCXS Project PSP |  Air Conflicts: Aces of World War 2 ) -->
