@@ -49,6 +49,8 @@ if(!$_SESSION['nome']) {
 
 
 
+
+
 <!-- id:3055 handler:start | TCXS Project |  F.E.A.R 2 Project Origin -->
 <button id="3055" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ F.E.A.R 2 Project Origin';" autofocus>
 <img src="../imagens/ps3/fear2.jpg"></button>
@@ -103,7 +105,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/fallout3.jpg"></button>
 <div id="janela_ Fallout 3: GOTY" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/2byye8sh73cgrrr/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/fallout3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Fallout 3: GOTY <br>
 Idioma: Ingles<br>
 Legenda: Português-Br<br>
@@ -266,7 +268,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/gowgssp.jpg"></button>
 <div id="janela_ God of War Collection Vol 1" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/xlcb1paovfvh8ib/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/gowgssp.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  God of War Collection Vol 1<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -497,7 +499,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/infamous.jpg"></button>
 <div id="janela_ Infamous" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/z8ys9cbbbdgs7de/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/infamous.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Infamous<br>
 Idioma: Português-Br<br>
 Legenda: Português-Br<br>
@@ -540,9 +542,6 @@ Plataforma: PlayStation3</p></div>
 <button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/2d30qv7h92jwui4/3DGAME-NPEB00247_00-NPEB002470000000.pkg?dl=1';" autofocus>Parte 03</button>
 <button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/mm69xe34av0rkj6/2PATCH-BLES00247_00-BLES002470000000.pkg?dl=1';" autofocus>Parte 04</button></div></div>
 <!-- id:3082 handler:end | TCXS Project |  Iron Man 2 -->
-
-
-
 
 
 
