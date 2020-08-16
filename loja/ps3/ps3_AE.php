@@ -49,21 +49,17 @@ if(!$_SESSION['nome']) {
 
 
 
-
-
-
-
 <!-- id:3001 handler:start | TCXS Project |  007 Goldeneye Reloaded -->
 <button id="3001" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ 007 Goldeneye Reloaded';" autofocus>
 <img src="../imagens/ps3/007gold.jpg"></button>
 <div id="janela_ 007 Goldeneye Reloaded" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/3g5ohrosb5lqo1k/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/007gold.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  007 Goldeneye Reloaded<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
 Plataforma: PlayStation3</p></div>
-<button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/w8ggtv07t34gwqw/1DGAME-NPEB01292_00-NPEB012920000000.pkg?dl=1';" autofocus>Parte 01</button>
+<button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/fpoohch56ei5otb/UP9000-SCUS94503_00-0000000000000001.pkg?dl=1';" autofocus>Parte 01</button>
 <button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/w8ggtv07t34gwqw/1DGAME-NPEB01292_00-NPEB012920000000.pkg?dl=1';" autofocus>Parte 02</button>
 <button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/w6sr8622ptkv44y/2DGAME-NPEB01292_00-NPEB012920000000.pkg?dl=1';" autofocus>Parte 03</button>
 <button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/680g29hcergfby1/3DGAME-NPEB01292_00-NPEB012920000000.pkg?dl=1';" autofocus>Parte 04</button>
@@ -77,7 +73,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/007legend.jpg"></button>
 <div id="janela_ 007 LEGENDS" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/29lr8g75jmjdxif/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/007legend.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  007 LEGENDS<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -95,7 +91,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/alonedark.jpg"></button>
 <div id="janela_ Alone In The Dark" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/3b3vdpq6rn8etyj/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/alonedark.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Alone In The Dark<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -112,7 +108,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/assassins2.jpg"></button>
 <div id="janela_Assassins2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/f3p5sb5qt9g9cmj/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/assassins2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Assassin Creed 2<br>
 Idioma: Ingles<br>
 Legenda: PT-BR<br>
@@ -127,7 +123,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/assassins3.jpg"></button>
 <div id="janela_ Assassin3" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/j16j2s85csb6u9g/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/assassins3.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Assassin Creed 3<br>
 Idioma: Português-Br<br>
 Legenda: PT-BR<br>
@@ -146,7 +142,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/assassins4.jpg"></button>
 <div id="janela_abf" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/8lff9bdei68o9pe/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/assassins4.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Assassin Creed 4 Black Flag <br>
 Idioma: Português-Br<br>
 Legenda: Português-Br<br>
@@ -164,7 +160,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/assassinsrvl.jpg"></button>
 <div id="janela_ Assassin Creed Revelations" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/pabibhz74k72aq8/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/assassinsrvl.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Assassin Creed Revelations<br>
 Idioma: Ingles<br>
 Legenda: Português-Br<br>
@@ -182,7 +178,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/assassinsrogue.jpg"></button>
 <div id="janela_ Assassin Creed Rogue" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/o0s7w0qrwci4k2j/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/assassinsrogue.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Assassin Creed Rogue <br>
 Idioma: Português-Br<br>
 Legenda: Português-Br<br>
@@ -201,7 +197,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/assassinshood.jpg"></button>
 <div id="janela_ Assassins Creed Brotherhood" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/g1o5diri8hep0jl/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/assassinshood.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Assassins Creed Brotherhood<br>
 Idioma: Ingles<br>
 Legenda: Português-Br<br>
@@ -222,7 +218,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/asuras.jpg"></button>
 <div id="janela_ Asura Wrath" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/fw8dwg266s0g7gl/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/asuras.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Asura Wrath<br>
 Idioma: Inglês<br>
 Legenda: Português-Br<br>
@@ -239,7 +235,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/batmanorigins.jpg"></button>
 <div id="janela_ Batman Arkham Origins" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/jdk0to0asx83cic/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/batmanorigins.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Batman Arkham Origins <br>
 Idioma: Português-Br<br>
 Legenda: Português-Br<br>
@@ -259,7 +255,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/batmancity.jpg"></button>
 <div id="janela_ Batman: Arkham City" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/xm9qop8i8es4p98/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/batmancity.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Batman: Arkham City <br>
 Idioma: Ingles<br>
 Legenda: Português-Br<br>
@@ -276,7 +272,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/chess.jpg"></button>
 <div id="janela_ Battle Vs Chess" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/pqsg4z68o48qlhu/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/chess.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Battle Vs Chess<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -347,7 +343,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/bts.jpg"></button>
 <div id="janela_ Beyond: Two Souls" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/k05ld726rsshba0/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/bts.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Beyond: Two Souls <br>
 Idioma: Português-Br<br>
 Legenda: Português-Br<br>
@@ -373,7 +369,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/area51.jpg"></button>
 <div id="janela_ Black Sites Area51" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/9wh6v2dbv6pty44/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/area51.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Black Sites Area51<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -391,7 +387,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/blur.jpg"></button>
 <div id="janela_ Blur" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/oxvi9q9gzk01i50/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/blur.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Blur<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -446,7 +442,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/borderpre.jpg"></button>
 <div id="janela_ Borderlands PRE" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/olh3wo8uh39b3dg/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/borderpre.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Borderlands PRE-Sequel<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -670,7 +666,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/condemned2.jpg"></button>
 <div id="janela_ Condemned 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/dgnhwzbdm91ct9t/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/condemned2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Condemned 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -686,7 +682,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/crysis2.jpg"></button>
 <div id="janela_ Crysis 2 Edição limitada" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/5mc9z0c5blknrol/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/crysis2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Crysis 2 Edição limitada<br>
 Idioma: Ingles<br>
 Legenda: Português-Br<br>
@@ -718,7 +714,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/darkswl1.jpg"></button>
 <div id="janela_ Dark Sector" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/j3zw8j8zjl3icds/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/darkswl1.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dark Sector<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -765,7 +761,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/dark1.jpg"></button>
 <div id="janela_ Dark Souls Prepare To Die Edition" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/001qc8g9fytmh3z/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/dark1.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dark Souls Prepare To Die Edition<br>
 Idioma: Ingles<br>
 Legenda: Português-Br<br>
@@ -781,7 +777,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/Darksiders2.jpg"></button>
 <div id="janela_ Darksiders 2" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/fvvwbqa3lfjfv1k/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/Darksiders2.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Darksiders 2<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -797,7 +793,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/deadslandriptide.jpg"></button>
 <div id="janela_ Dead Island Riptide" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/71kkpqkqa3jcgd1/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/deadslandriptide.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dead Island Riptide<br>
 Idioma: Ingles<br>
 Legenda: Português-Br<br>
@@ -812,7 +808,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/deadisland.jpg"></button>
 <div id="janela_ Dead Island" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/m9xqx6gfj6b9sau/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/deadisland.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dead Island<br>
 Idioma: Ingles<br>
 Legenda: Português-Br<br>
@@ -828,7 +824,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/deadright.jpg"></button>
 <div id="janela_ Dead To Right Retribution" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/46rg3shkptg5r33/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/deadright.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Dead To Right Retribution<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -844,7 +840,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/demonsouls.jpg"></button>
 <div id="janela_ Demon Souls" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/757dxjdoooupz43/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/demonsouls.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Demon Souls<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -977,8 +973,6 @@ Plataforma: PlayStation3</p></div>
 <!-- id:3053 handler:end | TCXS Project |  Dragons Dogma Dark Arisen  -->
 
 
-
-
 <!-- id:3054 handler:start | TCXS Project |  Evil Within  -->
 <button id="3054" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ Evil Within';" autofocus>
 <img src="../imagens/ps3/evilwithin.jpg"></button>
@@ -993,6 +987,8 @@ Plataforma: PlayStation3</p></div>
 <button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/zoifrfhqh5k3kka/2DGAME-NPUB31374_00-NPUB313740000000.pkg?dl=1';" autofocus>Parte 02</button>
 <button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/sdlkrd7j94qivfp/2PATCH-BLUS31374_00-BLUS313740000000.pkg?dl=1';" autofocus>Parte 03</button></div></div>
 <!-- id:3054 handler:end | TCXS Project |  Evil Within  -->
+
+
 
 
 

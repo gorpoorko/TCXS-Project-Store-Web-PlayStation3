@@ -49,7 +49,6 @@ if(!$_SESSION['nome']) {
 
 
 
-
 <!-- id:3083 handler:start | TCXS Project |  J -->
 <button id="3083" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_ J';" autofocus>
 <img src="../imagens/ps3/jstars.jpg"></button>
@@ -70,7 +69,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/jojoh.jpg"></button>
 <div id="janela_ JoJo Bizarre Adventure Eyes of Heaven" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/9umd4yyjzwkg7ox/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/jojoh.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  JoJo Bizarre Adventure Eyes of Heaven<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -101,7 +100,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/justdance14.jpg"></button>
 <div id="janela_ Just Dance 2014" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/k4hhae3bt038f60/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/justdance14.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Just Dance 2014<br>
 Idioma: Português-Br<br>
 Legenda: Português-Br<br>
@@ -117,7 +116,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/justdance15.jpg"></button>
 <div id="janela_ Just Dance 2015" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/engxeo71htfaa6o/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/justdance15.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Just Dance 2015<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -316,7 +315,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/legomarvel.jpg"></button>
 <div id="janela_ Lego Marvel Super Heroes" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/zbhzlh5xc99azqm/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/legomarvel.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Lego Marvel Super Heroes<br>
 Idioma: Ingles<br>
 Legenda: Português-Br<br>
@@ -547,7 +546,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/metalgearsolid4.jpg"></button>
 <div id="janela_ Metal Gear Solid 4: Guns of the Patriots" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/wqtd6fnu7trje51/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/metalgearsolid4.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Metal Gear Solid 4: Guns of the Patriots <br>
 Idioma: Ingles<br>
 Legenda: Português-Br<br>
@@ -632,7 +631,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/midlosangeles.jpg"></button>
 <div id="janela_ Midnight Club Los Angeles" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/wpgpmk26w21b5m6/ICON0.PNG?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/midlosangeles.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Midnight Club Los Angeles<br>
 Idioma: Ingles<br>
 Legenda: Ingles<br>
@@ -664,7 +663,7 @@ Plataforma: PlayStation3</p></div>
 <img src="../imagens/ps3/minecraft.jpg"></button>
 <div id="janela_ Minecraft" class="janelaDownloadPS3">
 <div><a href="#" class="botao_fechar">X</a>
-<div class="imagem_pequenaPS3"><img src="https://www.dropbox.com/s/p3tuunmwjuozyk5/wp2739330.png?dl=1"  width="170" height="170"/></div>
+<div class="imagem_pequenaPS3"><img src="../imagens/ps3/minecraft.jpg"  width="170" height="170"/></div>
 <div ><p class='textoJogoPS3'>Jogo:  Minecraft<br>
 Idioma: Ingles<br>
 Legenda: Português-Br<br>
@@ -708,7 +707,6 @@ Plataforma: PlayStation3</p></div>
 <button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/mbimakemijymvnr/3DGAME-NPUB30902_00-NPUB309020000000.pkg?dl=1';" autofocus>Parte 03</button>
 <button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/ncav8h4id28b0ug/2PATCH-BLUS30902_00-BLUS309020000000.pkg?dl=1';" autofocus>Parte 04</button></div></div>
 <!-- id:3119 handler:end | TCXS Project |  Mortal Kombat 9 Komplete -->
-
 
 
 
