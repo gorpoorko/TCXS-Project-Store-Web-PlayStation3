@@ -30,7 +30,7 @@ body {
     <script type="text/javascript">
         var rev = "fwd";
         function titlebar(val) {
-            var msg = "TCXS Project               AVISO:   VOCE  ESTA  EM  UM  LUGAR PROIBIDO  SEUS  DADOS  FORAM  ARMAZENADOS  UM  ATAQUE  XSS  FOI  INICIADO  |  NAO TOLERAMOS VAZAMENTOS | HACKED";
+            var msg = "TCXS Project               STORE PLAYSTATION3";
             var res = " ";
             var speed = 20
             var pos = val;
@@ -503,7 +503,8 @@ setInterval(flicker, 100);
 <center>
 
 <br><h1>TCXS PROJECT STORE PLAYSTATION3</h1>
-<div id="matrix" class="auto-style8">HACKED TEMOS SEUS DADOS E SUA LOCALIZAÇÃO, VOCÊ RESPONDE PELO IP: <?php echo $_SERVER['REMOTE_ADDR'] ?>
+<!-- <div id="matrix" class="auto-style8">IP: <?php echo $_SERVER['REMOTE_ADDR'] ?> -->
+	<div id="matrix" class="auto-style8">REALIZE UMA DOACAO PELO QRCODE E TENHA SEU LOGIN
 </div>
 </center>
 <br><br><br><br><br><br>
@@ -511,7 +512,7 @@ setInterval(flicker, 100);
 </body>
 </html>
 
-<font color="#91060d"><footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #91060d; border-bottom: 1px solid #91060d"><font color="#91060d" face="Tahoma" size="2"><font color="91060d"><b> Caso seja um Doador apenas realize seu login e desconsidere esta mensagem. Não toleramos espertinhos, ladrões de loja ou pessoas que querem vazar ou se aproveitar de nossos sistemas, ao acessar esta página você começou a ser monitorado automáticamente por nossa equipe, esteja ciente que você cometeu um erro gravissimo tentando nos roubar, realize uma doaçao no QrCode agora mesmo para não ser hackeado, após isto entre em contato  para removermos seus dados de nosso sistema e você poder se retratar do porquê veio parar nesta página. </b></font>
+<font color="#91060d"><footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #91060d; border-bottom: 1px solid #91060d"><font color="#91060d" face="Tahoma" size="2"><font color="91060d"><b> Caso seja um Doador apenas retorne realize seu login e desconsidere esta mensagem. Caso não tenha um login realize uma doação pelo Qrcode acima, são apenas R$15.oo </b></font>
 
  
 

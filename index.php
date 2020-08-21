@@ -28,7 +28,7 @@ session_start();
       <script src="assets/js/funcoesLogin.js"></script>
       <script src="loja/gorpo.js"></script>
       <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
-      <title>TCXS Project 2021</title>
+      <title>TCXS Project STORE</title>
     </head>
 <body> 
 <!-- bloqueio do click direito do mouse -->
@@ -73,7 +73,7 @@ session_start();
           </div>
 
           <div class="field">          
-            <button type="submit" id="btnhome_" type="button" class="container-login100-form-btn login100-form-btn m-b-16 ">Entrar</button>
+            <button type="submit" id="btnhome" type="button" class="container-login100-form-btn login100-form-btn m-b-16 ">Entrar</button>
           </div>
 
           </form> 
