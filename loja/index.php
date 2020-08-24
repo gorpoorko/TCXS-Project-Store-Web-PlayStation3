@@ -8,11 +8,35 @@
 
 <?php
 session_start();
+//inclui o arquivo de conexao com banco de dados
+include('../conexao.php');
+
+//conexao com banco de dados para pegar a data
+$usuario = mysqli_real_escape_string($conexao, $_SESSION['nome']);
+$sql= "SELECT (data_cadastro) from usuarios where usuario = '$usuario'"; //pega o usuario no banco de dados
+$sqldata = mysqli_query($conexao, $sql); //conexao com a query
+$rowdata = mysqli_fetch_array($sqldata); //array da variavel
+$datacadastrada = $rowdata['data_cadastro']; //seleciona a data do usuario
+
+//formata a data de entrada do usuario
+$strdata = strtotime($datacadastrada);
+$data_entrada_usuario = date('d-m-Y', $strdata);
+
+//formata a data de expiração do usuario
+$data_expira = strtotime($datacadastrada. '+33 days');
+$data_expira_formatada = date('d-m-Y', $data_expira);
+
+
+//se usuario e senha estiverem vazios leva o usuario para pagina de donate com codigo qr
 if(!$_SESSION['nome']) {
   header('Location: ../nao_logado.php');
   exit();
 }
+
 ?>
+
+
+
 <!DOCTYPE html>
   <html>
     <head>
@@ -33,8 +57,8 @@ if(!$_SESSION['nome']) {
       <title>TCXS Project PlayStation3 Store</title>
     </head>
 <body>
+  <!-- menus do topo -->
 <script>document.oncontextmenu = document.body.oncontextmenu = function() {return false;}</script>
-
   <div class="navigation-bar">
   <div id="navigation-container">
     <a href='index.php'><img class="logo" src="imagens/logo.png"></a>
@@ -47,52 +71,52 @@ if(!$_SESSION['nome']) {
       <li><a href="televisao/tv.php">IPTV</a></li>
     </ul> 
   </div> </div>
-  <!-- INICIO DOS  JOGOS PARA DOWNLOAD -->
+  
+
+
 
                 
 <!-- mensagem de boas vindas mostrando ip e sistema operacional -->
 <center>
 <div style="color: #AD0000; background-color: #000000;width: 1200px;  border: none; margin-left: 17px;">
-Olá <?php echo $_SESSION['nome'];?> bem vindo a nova TCXS Store | IP: <?php echo $_SERVER['REMOTE_ADDR'];?>
-<script type="text/javascript">
-var OSNome = "";
-if (window.navigator.userAgent.indexOf("Windows NT 10.0")!= -1) OSNome="Windows 10";
-if (window.navigator.userAgent.indexOf("Windows NT 6.2") != -1) OSNome="Windows 8";
-if (window.navigator.userAgent.indexOf("Windows NT 6.1") != -1) OSNome="Windows 7";
-if (window.navigator.userAgent.indexOf("Windows NT 6.0") != -1) OSNome="Windows Vista";
-if (window.navigator.userAgent.indexOf("Windows NT 5.1") != -1) OSNome="Windows XP";
-if (window.navigator.userAgent.indexOf("Windows NT 5.0") != -1) OSNome="Windows 2000";
-if (window.navigator.userAgent.indexOf("Mac")            != -1) OSNome="Mac/iOS";
-if (window.navigator.userAgent.indexOf("X11")            != -1) OSNome="UNIX";
-if (window.navigator.userAgent.indexOf("Linux")          != -1) OSNome="Linux";
-if (window.navigator.userAgent.indexOf("5.0 (") + 19, ua.indexOf(") Apple") != -1) OSNome="PlayStation3";
-//var fwVersion = ua.substring(ua.indexOf("5.0 (") + 19, ua.indexOf(") Apple"));
-document.write(' | Sistema: '+ OSNome);
-</script> 
-</div></center>
+<h2>Olá <?php echo $_SESSION['nome'];?> bem vindo a nova TCXS Store</h2>
 
-<div class="menus_home">
-  
-  <button id="home1" class="colunas_home"  type="button" onclick="window.location.href='psp.html';" autofocus>
-  <img src="imagens/menus/psp.jpg"></button>
+<div class="aviso_home">
+<div class='bordinhaHome'>
+<!-- mensagem informando nome, ip, data de entrada, prazo, funçao feita com javascript + php -->
+<code>Seu IP: <?php echo $_SERVER['REMOTE_ADDR'];?></code><br>
+<code>Data de Entrada: <?php echo  $data_entrada_usuario ?></code><br>
+<code>Data de Expiração: <?php echo  $data_expira_formatada ?></code><br>
+<code>Versão : version_4.0 HAN | HEN | CFW</code><br>
+<code>Sistema : Exclusiva para PlayStation3</code><br>
+<code>Autores : Mitsuki | Mst3dz | Gorpo</code><br>
+<code>PlayStation Store : TCXS Project Store</code><br>
+</div>
+
+<div class="bordinha2Home">
+<ul>
+<h3>Atenção! Informações importantes:</h3>
+<li>Para acelerar seus downloads use nosso Tutorial de Proxy.</li>
+<li>Usuários HEN e CFW podem salvar seus jogos no HD do console.</li>
+<li>Usuários HAN precisam de pendrive ou hd externo na USB devido limitação do HAN.</li>
+<li>Downloads segundo plano não tem funcionado, faça os downloads de forma normal.</li>
+<li>Em caso de links quebrados informe no grupo para que sejam corrigidos.</li>
+<li>Convertemos, upamos e inserimos na loja mantendo o catálogo atualizado.</li>
+<li>Temos jogos legendados/dublados conforme obtemos nas comunidades parceiras.</li>
+<li>As atualizações são automáticas, são feitas atualizações quinzenais.</li>
+<li>Nossos jogos de PlayStation3 funcionarão mesmo que você remova seu exploit.</li>
+<li>Todos jogos de PlayStation3 são NO-HAN | NO-HEN, não precisam de licenças.</li>
+<li>Ao vencer seu login automáticamente ele deixará de funcionar.</li>
+<li>Não compartilhe seu login, ou será banido, isto é automático da programação.</li>
+<li>Jogos baixados seguem sendo seus mesmo que o login tenha vencido.</li>
 
 
-  <button id="home2" class="colunas_home"  type="button" onclick="window.location.href='ps1.html';" autofocus>
-  <img src="imagens/menus/ps1.jpg"></button>
 
-  <button id="home3" class="colunas_home"  type="button" onclick="window.location.href='ps2.html';" autofocus>
-  <img src="imagens/menus/ps2.jpg"></button>
+</ul>
+</div></div>
 
-  <button id="home4" class="colunas_home"  type="button" onclick="window.location.href='ps3.html';" autofocus>
-  <img src="imagens/menus/ps3.jpg"></button>
-
-  <button id="home5" class="colunas_home"  type="button" onclick="window.location.href='emuladores.html';" autofocus>
-  <img src="imagens/menus/emuladores.jpg"></button>
-
-  <button id="home6" class="colunas_home"  type="button" onclick="window.location.href='stuff.html';" autofocus>
-  <img src="imagens/menus/psn_stuff.jpg"></button>
-
-<div>
+</div>
+</center>
 
 
 
@@ -109,13 +133,6 @@ document.write(' | Sistema: '+ OSNome);
 
 
 
-
-
-<!-- SIC 002 | script de bloqueio para que não rode em outra plataforma que não seja o cosole PlayStation3 
-<script>
-		writeEnvInfo();
-		ps3chk();
-</script> -->
 </body>
 </html>
 <font color="#91060d"><footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #91060d; border-bottom: 1px solid #91060d"><font color="#91060d" face="Tahoma" size="2"><font color="91060d"><b> TCXS Project PlayStation3 Store  |  2020  |  HAN HEN CFW  |  Nunca compartilhe seu login se sua conta for acessada de outro IP você será banido.</b></font>
