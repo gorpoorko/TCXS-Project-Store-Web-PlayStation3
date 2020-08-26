@@ -59,11 +59,10 @@ if(!$_SESSION['nome']) {
 Idioma: Ingles<br>
 Legenda: Ingles<br>
 Plataforma: PlayStation3</p></div>
-<button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/fpoohch56ei5otb/UP9000-SCUS94503_00-0000000000000001.pkg?dl=1';" autofocus>Parte 01</button>
-<button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/w8ggtv07t34gwqw/1DGAME-NPEB01292_00-NPEB012920000000.pkg?dl=1';" autofocus>Parte 02</button>
-<button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/w6sr8622ptkv44y/2DGAME-NPEB01292_00-NPEB012920000000.pkg?dl=1';" autofocus>Parte 03</button>
-<button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/680g29hcergfby1/3DGAME-NPEB01292_00-NPEB012920000000.pkg?dl=1';" autofocus>Parte 04</button>
-<button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/biy7t8hck5oe9er/2PATCH-BLES01292_00-BLES012920000000.pkg?dl=1';" autofocus>Parte 05</button>
+<button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/w8ggtv07t34gwqw/1DGAME-NPEB01292_00-NPEB012920000000.pkg?dl=1';" autofocus>Parte 01</button>
+<button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/w6sr8622ptkv44y/2DGAME-NPEB01292_00-NPEB012920000000.pkg?dl=1';" autofocus>Parte 02</button>
+<button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/680g29hcergfby1/3DGAME-NPEB01292_00-NPEB012920000000.pkg?dl=1';" autofocus>Parte 03</button>
+<button  class="botaoDownloadPS3" type="button" onclick="window.location.href='https://www.dropbox.com/s/biy7t8hck5oe9er/2PATCH-BLES01292_00-BLES012920000000.pkg?dl=1';" autofocus>Parte 04</button>
 </div></div>
 <!-- id:3001 handler:end | TCXS Project |  007 Goldeneye Reloaded -->
 

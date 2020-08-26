@@ -89,7 +89,7 @@ session_start();
 </div>
 
 
-
+<!--
 <script>
     writeEnvInfo();
     ps3chk();

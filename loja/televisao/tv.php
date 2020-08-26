@@ -50,18 +50,10 @@ if(!$_SESSION['nome']) {
 
 
     <!-- id: stuff_0 handler:start | TCXS Project PSN STUFF |  1942: Joint Strike) -->
-    <button id="btn_tv_0" class="caixa_imagem"  type="button" onclick="window.location.href='#janela_tv_0';"
+    <button id="btn_tv_0" class="caixa_imagem"  type="button" onclick="window.location.href='https://uc8d3293f3645de782d30e57e65e.dl.dropboxusercontent.com/cd/0/inline/A9oRMmMNbHTlv1atuvFd32dscqFYjt-u34wQbQBBo6evg_s9u46KKRb1fBSZL4wh1uzZI4eZYdZZMNVVQiEpLjXCuvdBTlRiWe5veoP5HpBT3f4aFv3e5BwX563Kp11tgo4/file#=1';"
     autofocus>
-    <img src="../imagens/tv/logo_tv.jpg"></button>
-    <div id="janela_tv_0" class="janelaDownload">
-    <div><a href="#" class="botao_fechar">X</a>
-    <div class="imagem_pequena"><img src="imagens/stuff/1942 - Joint Strike.jpg"  width="170" height="170"/></div>
-    <div ><p class='textoJogo'>Jogo:  1942: Joint Strike<br>
-    info: NPEB00026 - 129.69 Mb
-    Dist: PSN Sony
-    Plataforma: PlayStation3</p>
-    <a href="http://www.dl.dropboxusercontent.com/s/0ocwl1aawhz21yl/jumanji.mp4" key="module_action">asdasdasd</a>
-    <button  class="botaoDownload" type="button" key="module_action" onclick="window.location.href='http://www.dl.dropboxusercontent.com/s/0ocwl1aawhz21yl/jumanji.mp4';" autofocus>  --> Download</button></div></div></div>
+    <img src="../imagens/tv/tv.jpg"></button>
+   
     <!-- id: stuff_0 handler:end | TCXS Project |  1942: Joint Strike -->
 
 

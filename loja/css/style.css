@@ -371,6 +371,41 @@ body {
   font-size: 12px;
 }
 
+.aviso_home {
+  text-align: left;
+  color: rgb(255, 255, 255);
+  padding-left: 12rem;
+  font-family: 'VT323', sans-serif;
+  font-size: 25px;
+  margin: auto;
+  padding: 10px;
+
+}
+
+.bordinhaHome {
+  border-style: solid;
+  border-width: medium;
+  border-color: #AD0000;
+  border-radius: 8px;
+  width: 850px;
+  border-spacing: 5px;
+  margin: auto auto 10px auto;
+  padding: 10px;
+  font-size: 15px;
+}
+
+.bordinha2Home {
+  border-style: solid;
+  border-width: medium;
+  border-color: #AD0000;
+  border-radius: 8px;
+  width: 850px;
+  border-spacing: 5px;
+  margin: auto auto 10px auto;
+  padding: 10px;
+  font-size: 25px;
+}
+
 /* cor dos links a=href*/
 a {
   color: rgb(255, 255, 255);
@@ -395,4 +430,13 @@ a:hover {
   50% {
     opacity: 0;
   }
+}
+
+
+
+h2 {
+  font: 50px 'VT323', sans-serif;
+  text-align: center;
+  color: #AD0000;
+text-shadow: 0px 2px 3px #090A08;
 }
