@@ -1,0 +1,15 @@
+<XMBML version="1.0">
+    <View id="han_toolbox_xmb_main">
+        <Attributes>
+            <Table key="tcxs_project">
+                <Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/logo.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>TCXS PROJECT</String></Pair>
+                <Pair key="info"><String>HAN | HEN | CFW</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Query class="type:x-xmb/folder-pixmap" key="tcxs_project" attr="tcxs_project" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/menus.xml#jogospkg_items"/>
+        </Items>
+    </View>
+</XMBML>

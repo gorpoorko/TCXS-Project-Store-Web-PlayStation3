@@ -1,0 +1,39 @@
+<XMBML version="1.0">
+	<View id="jogospkg_items">
+		<Attributes>
+			<Table key="han_main">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/logo.png</String></Pair>
+                <Pair key="icon_notation"> <String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>TCXS Store 2020</String></Pair>
+                <Pair key="info"><String>HAN | HEN | CFW | Doadores</String></Pair>
+            	<Pair key="module_name"><String>webrender_plugin</String></Pair>
+            	<Pair key="module_action"><String>http://tcxsproject.com.br/store/index.php</String></Pair>
+            </Table>
+
+            <Table key="psn_stuff">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/logo_stuff.png</String></Pair>
+                <Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>TCXS PSN Stuff</String></Pair>
+                <Pair key="info"><String>HAN | HEN | CFW | Free </String></Pair>
+            </Table>
+
+            <Table key="free">
+                <Pair key="icon"><String>/dev_hdd0/game/HENBSTORE/USRDIR/logo.png</String></Pair>
+                <Pair key="icon_notation"> <String>WNT_XmbItemAlbum</String></Pair>
+                <Pair key="title"><String>TCXS BONUS</String></Pair>
+                <Pair key="info"><String>NO-HAN | NO-HEN | CFW | Free </String></Pair>
+                <Pair key="module_name"><String>webrender_plugin</String></Pair>
+                <Pair key="module_action"><String>https://tcxsproject.com.br/store/loja/free.php?act=mitsuky</String></Pair>
+            </Table>
+
+		</Attributes>
+
+		<Items>
+			<Item class="type:x-xmb/module-action" key="han_main" attr="han_main" />
+            <Item class="type:x-xmb/module-action" key="free" attr="free" />
+			<Query class="type:x-xmb/folder-pixmap" key="psn_stuff" attr="psn_stuff" src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/psnstuff.xml#psnstuff_items"/>
+
+		</Items>
+	</View>
+
+</XMBML>
